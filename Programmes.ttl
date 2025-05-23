@@ -1,0 +1,150 @@
+@prefix db_lab: <http://www.semanticweb.org/jane/ontologies/2025/4/chalmers-dat475-Assignment#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+db_lab:Programme_10001 a db_lab:Programmes ;
+    db_lab:director "19620522-0023"^^xsd:string ;
+    db_lab:hasDirector db_lab:teacher_19620522-0023 ;
+    db_lab:programmeCode "10001"^^xsd:string ;
+    db_lab:programmeDept "D1"^^xsd:string ;
+    db_lab:programmeName "P-01"^^xsd:string .
+
+db_lab:Programme_10011 a db_lab:Programmes ;
+    db_lab:director "19620424-0026"^^xsd:string ;
+    db_lab:hasDirector db_lab:teacher_19620424-0026 ;
+    db_lab:programmeCode "10011"^^xsd:string ;
+    db_lab:programmeDept "D2"^^xsd:string ;
+    db_lab:programmeName "P-11"^^xsd:string .
+
+db_lab:Programme_10012 a db_lab:Programmes ;
+    db_lab:director "19610623-0005"^^xsd:string ;
+    db_lab:hasDirector db_lab:teacher_19610623-0005 ;
+    db_lab:programmeCode "10012"^^xsd:string ;
+    db_lab:programmeDept "D2"^^xsd:string ;
+    db_lab:programmeName "P-12"^^xsd:string .
+
+db_lab:Programme_10013 a db_lab:Programmes ;
+    db_lab:director "19690408-0009"^^xsd:string ;
+    db_lab:hasDirector db_lab:teacher_19690408-0009 ;
+    db_lab:programmeCode "10013"^^xsd:string ;
+    db_lab:programmeDept "D2"^^xsd:string ;
+    db_lab:programmeName "P-13"^^xsd:string .
+
+db_lab:Programme_10014 a db_lab:Programmes ;
+    db_lab:director "19560812-0016"^^xsd:string ;
+    db_lab:hasDirector db_lab:teacher_19560812-0016 ;
+    db_lab:programmeCode "10014"^^xsd:string ;
+    db_lab:programmeDept "D2"^^xsd:string ;
+    db_lab:programmeName "P-14"^^xsd:string .
+
+db_lab:Programme_10021 a db_lab:Programmes ;
+    db_lab:director "19570615-0011"^^xsd:string ;
+    db_lab:hasDirector db_lab:teacher_19570615-0011 ;
+    db_lab:programmeCode "10021"^^xsd:string ;
+    db_lab:programmeDept "D3"^^xsd:string ;
+    db_lab:programmeName "P-21"^^xsd:string .
+
+db_lab:Programme_10031 a db_lab:Programmes ;
+    db_lab:director "19650303-0019"^^xsd:string ;
+    db_lab:hasDirector db_lab:teacher_19650303-0019 ;
+    db_lab:programmeCode "10031"^^xsd:string ;
+    db_lab:programmeDept "D4"^^xsd:string ;
+    db_lab:programmeName "P-31"^^xsd:string .
+
+db_lab:Programme_10032 a db_lab:Programmes ;
+    db_lab:director "19570826-0012"^^xsd:string ;
+    db_lab:hasDirector db_lab:teacher_19570826-0012 ;
+    db_lab:programmeCode "10032"^^xsd:string ;
+    db_lab:programmeDept "D4"^^xsd:string ;
+    db_lab:programmeName "P-32"^^xsd:string .
+
+db_lab:Programme_10033 a db_lab:Programmes ;
+    db_lab:director "19570828-0008"^^xsd:string ;
+    db_lab:hasDirector db_lab:teacher_19570828-0008 ;
+    db_lab:programmeCode "10033"^^xsd:string ;
+    db_lab:programmeDept "D4"^^xsd:string ;
+    db_lab:programmeName "P-33"^^xsd:string .
+
+db_lab:Programme_10034 a db_lab:Programmes ;
+    db_lab:director "19610918-0027"^^xsd:string ;
+    db_lab:hasDirector db_lab:teacher_19610918-0027 ;
+    db_lab:programmeCode "10034"^^xsd:string ;
+    db_lab:programmeDept "D4"^^xsd:string ;
+    db_lab:programmeName "P-34"^^xsd:string .
+
+db_lab:Programme_10041 a db_lab:Programmes ;
+    db_lab:director "19580218-0007"^^xsd:string ;
+    db_lab:hasDirector db_lab:teacher_19580218-0007 ;
+    db_lab:programmeCode "10041"^^xsd:string ;
+    db_lab:programmeDept "D5"^^xsd:string ;
+    db_lab:programmeName "P-41"^^xsd:string .
+
+db_lab:Programme_10042 a db_lab:Programmes ;
+    db_lab:director "19620831-0024"^^xsd:string ;
+    db_lab:hasDirector db_lab:teacher_19620831-0024 ;
+    db_lab:programmeCode "10042"^^xsd:string ;
+    db_lab:programmeDept "D5"^^xsd:string ;
+    db_lab:programmeName "P-42"^^xsd:string .
+
+db_lab:Programme_10051 a db_lab:Programmes ;
+    db_lab:director "19580515-0017"^^xsd:string ;
+    db_lab:hasDirector db_lab:teacher_19580515-0017 ;
+    db_lab:programmeCode "10051"^^xsd:string ;
+    db_lab:programmeDept "D6"^^xsd:string ;
+    db_lab:programmeName "P-51"^^xsd:string .
+
+db_lab:Programme_10052 a db_lab:Programmes ;
+    db_lab:director "19611219-0014"^^xsd:string ;
+    db_lab:hasDirector db_lab:teacher_19611219-0014 ;
+    db_lab:programmeCode "10052"^^xsd:string ;
+    db_lab:programmeDept "D6"^^xsd:string ;
+    db_lab:programmeName "P-52"^^xsd:string .
+
+db_lab:Programme_10053 a db_lab:Programmes ;
+    db_lab:director "19600905-0003"^^xsd:string ;
+    db_lab:hasDirector db_lab:teacher_19600905-0003 ;
+    db_lab:programmeCode "10053"^^xsd:string ;
+    db_lab:programmeDept "D6"^^xsd:string ;
+    db_lab:programmeName "P-53"^^xsd:string .
+
+db_lab:Programme_10054 a db_lab:Programmes ;
+    db_lab:director "19630126-0001"^^xsd:string ;
+    db_lab:hasDirector db_lab:teacher_19630126-0001 ;
+    db_lab:programmeCode "10054"^^xsd:string ;
+    db_lab:programmeDept "D6"^^xsd:string ;
+    db_lab:programmeName "P-54"^^xsd:string .
+
+db_lab:Programme_10061 a db_lab:Programmes ;
+    db_lab:director "19680712-0028"^^xsd:string ;
+    db_lab:hasDirector db_lab:teacher_19680712-0028 ;
+    db_lab:programmeCode "10061"^^xsd:string ;
+    db_lab:programmeDept "D7"^^xsd:string ;
+    db_lab:programmeName "P-61"^^xsd:string .
+
+db_lab:Programme_10071 a db_lab:Programmes ;
+    db_lab:director "19610620-0006"^^xsd:string ;
+    db_lab:hasDirector db_lab:teacher_19610620-0006 ;
+    db_lab:programmeCode "10071"^^xsd:string ;
+    db_lab:programmeDept "D8"^^xsd:string ;
+    db_lab:programmeName "P-71"^^xsd:string .
+
+db_lab:Programme_10072 a db_lab:Programmes ;
+    db_lab:director "19660630-0020"^^xsd:string ;
+    db_lab:hasDirector db_lab:teacher_19660630-0020 ;
+    db_lab:programmeCode "10072"^^xsd:string ;
+    db_lab:programmeDept "D8"^^xsd:string ;
+    db_lab:programmeName "P-72"^^xsd:string .
+
+db_lab:Programme_10073 a db_lab:Programmes ;
+    db_lab:director "19600814-0002"^^xsd:string ;
+    db_lab:hasDirector db_lab:teacher_19600814-0002 ;
+    db_lab:programmeCode "10073"^^xsd:string ;
+    db_lab:programmeDept "D8"^^xsd:string ;
+    db_lab:programmeName "P-73"^^xsd:string .
+
+db_lab:Programme_10074 a db_lab:Programmes ;
+    db_lab:director "19601021-0018"^^xsd:string ;
+    db_lab:hasDirector db_lab:teacher_19601021-0018 ;
+    db_lab:programmeCode "10074"^^xsd:string ;
+    db_lab:programmeDept "D8"^^xsd:string ;
+    db_lab:programmeName "P-74"^^xsd:string .
+

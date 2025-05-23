@@ -1,0 +1,3283 @@
+@prefix db_lab: <http://www.semanticweb.org/jane/ontologies/2025/4/chalmers-dat475-Assignment#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+db_lab:student_19750102-0059 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10041 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19750102-0059"^^xsd:string ;
+    db_lab:studentName "TA 59"^^xsd:string ;
+    db_lab:studentProgramme "10041"^^xsd:string ;
+    db_lab:studentYear "2004"^^xsd:string .
+
+db_lab:student_19750122-0056 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10033 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19750122-0056"^^xsd:string ;
+    db_lab:studentName "TA 56"^^xsd:string ;
+    db_lab:studentProgramme "10033"^^xsd:string ;
+    db_lab:studentYear "2012"^^xsd:string .
+
+db_lab:student_19750220-0037 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10041 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19750220-0037"^^xsd:string ;
+    db_lab:studentName "TA 37"^^xsd:string ;
+    db_lab:studentProgramme "10041"^^xsd:string ;
+    db_lab:studentYear "2008"^^xsd:string .
+
+db_lab:student_19750331-0036 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10021 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19750331-0036"^^xsd:string ;
+    db_lab:studentName "TA 36"^^xsd:string ;
+    db_lab:studentProgramme "10021"^^xsd:string ;
+    db_lab:studentYear "2004"^^xsd:string .
+
+db_lab:student_19750417-0051 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10053 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19750417-0051"^^xsd:string ;
+    db_lab:studentName "TA 51"^^xsd:string ;
+    db_lab:studentProgramme "10053"^^xsd:string ;
+    db_lab:studentYear "2000"^^xsd:string .
+
+db_lab:student_19750512-0043 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10074 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19750512-0043"^^xsd:string ;
+    db_lab:studentName "TA 43"^^xsd:string ;
+    db_lab:studentProgramme "10074"^^xsd:string ;
+    db_lab:studentYear "2010"^^xsd:string .
+
+db_lab:student_19750705-0033 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10014 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19750705-0033"^^xsd:string ;
+    db_lab:studentName "TA 33"^^xsd:string ;
+    db_lab:studentProgramme "10014"^^xsd:string ;
+    db_lab:studentYear "2005"^^xsd:string .
+
+db_lab:student_19750722-0060 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10031 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19750722-0060"^^xsd:string ;
+    db_lab:studentName "TA 60"^^xsd:string ;
+    db_lab:studentProgramme "10031"^^xsd:string ;
+    db_lab:studentYear "2000"^^xsd:string .
+
+db_lab:student_19750906-0032 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10052 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19750906-0032"^^xsd:string ;
+    db_lab:studentName "TA 32"^^xsd:string ;
+    db_lab:studentProgramme "10052"^^xsd:string ;
+    db_lab:studentYear "2000"^^xsd:string .
+
+db_lab:student_19751018-0039 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10061 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19751018-0039"^^xsd:string ;
+    db_lab:studentName "TA 39"^^xsd:string ;
+    db_lab:studentProgramme "10061"^^xsd:string ;
+    db_lab:studentYear "2009"^^xsd:string .
+
+db_lab:student_19760108-0050 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10034 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19760108-0050"^^xsd:string ;
+    db_lab:studentName "TA 50"^^xsd:string ;
+    db_lab:studentProgramme "10034"^^xsd:string ;
+    db_lab:studentYear "2005"^^xsd:string .
+
+db_lab:student_19760524-0046 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10033 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19760524-0046"^^xsd:string ;
+    db_lab:studentName "TA 46"^^xsd:string ;
+    db_lab:studentProgramme "10033"^^xsd:string ;
+    db_lab:studentYear "2005"^^xsd:string .
+
+db_lab:student_19761009-0055 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10011 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19761009-0055"^^xsd:string ;
+    db_lab:studentName "TA 55"^^xsd:string ;
+    db_lab:studentProgramme "10011"^^xsd:string ;
+    db_lab:studentYear "2012"^^xsd:string .
+
+db_lab:student_19761020-0044 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10042 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19761020-0044"^^xsd:string ;
+    db_lab:studentName "TA 44"^^xsd:string ;
+    db_lab:studentProgramme "10042"^^xsd:string ;
+    db_lab:studentYear "2008"^^xsd:string .
+
+db_lab:student_19761024-0034 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10053 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19761024-0034"^^xsd:string ;
+    db_lab:studentName "TA 34"^^xsd:string ;
+    db_lab:studentProgramme "10053"^^xsd:string ;
+    db_lab:studentYear "2000"^^xsd:string .
+
+db_lab:student_19770224-0058 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10014 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19770224-0058"^^xsd:string ;
+    db_lab:studentName "TA 58"^^xsd:string ;
+    db_lab:studentProgramme "10014"^^xsd:string ;
+    db_lab:studentYear "2013"^^xsd:string .
+
+db_lab:student_19770713-0042 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10014 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19770713-0042"^^xsd:string ;
+    db_lab:studentName "TA 42"^^xsd:string ;
+    db_lab:studentProgramme "10014"^^xsd:string ;
+    db_lab:studentYear "2005"^^xsd:string .
+
+db_lab:student_19771013-0040 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10061 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19771013-0040"^^xsd:string ;
+    db_lab:studentName "TA 40"^^xsd:string ;
+    db_lab:studentProgramme "10061"^^xsd:string ;
+    db_lab:studentYear "2005"^^xsd:string .
+
+db_lab:student_19780317-0052 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10041 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19780317-0052"^^xsd:string ;
+    db_lab:studentName "TA 52"^^xsd:string ;
+    db_lab:studentProgramme "10041"^^xsd:string ;
+    db_lab:studentYear "2013"^^xsd:string .
+
+db_lab:student_19780424-0057 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10041 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19780424-0057"^^xsd:string ;
+    db_lab:studentName "TA 57"^^xsd:string ;
+    db_lab:studentProgramme "10041"^^xsd:string ;
+    db_lab:studentYear "2003"^^xsd:string .
+
+db_lab:student_19780602-0035 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10053 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19780602-0035"^^xsd:string ;
+    db_lab:studentName "TA 35"^^xsd:string ;
+    db_lab:studentProgramme "10053"^^xsd:string ;
+    db_lab:studentYear "2008"^^xsd:string .
+
+db_lab:student_19780815-0047 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10061 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19780815-0047"^^xsd:string ;
+    db_lab:studentName "TA 47"^^xsd:string ;
+    db_lab:studentProgramme "10061"^^xsd:string ;
+    db_lab:studentYear "2013"^^xsd:string .
+
+db_lab:student_19781125-0031 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10052 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19781125-0031"^^xsd:string ;
+    db_lab:studentName "TA 31"^^xsd:string ;
+    db_lab:studentProgramme "10052"^^xsd:string ;
+    db_lab:studentYear "2005"^^xsd:string .
+
+db_lab:student_19781130-0054 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10034 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19781130-0054"^^xsd:string ;
+    db_lab:studentName "TA 54"^^xsd:string ;
+    db_lab:studentProgramme "10034"^^xsd:string ;
+    db_lab:studentYear "2014"^^xsd:string .
+
+db_lab:student_19781217-0053 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10052 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19781217-0053"^^xsd:string ;
+    db_lab:studentName "TA 53"^^xsd:string ;
+    db_lab:studentProgramme "10052"^^xsd:string ;
+    db_lab:studentYear "2000"^^xsd:string .
+
+db_lab:student_19790426-0049 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10034 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19790426-0049"^^xsd:string ;
+    db_lab:studentName "TA 49"^^xsd:string ;
+    db_lab:studentProgramme "10034"^^xsd:string ;
+    db_lab:studentYear "2013"^^xsd:string .
+
+db_lab:student_19790618-0048 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10053 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19790618-0048"^^xsd:string ;
+    db_lab:studentName "TA 48"^^xsd:string ;
+    db_lab:studentProgramme "10053"^^xsd:string ;
+    db_lab:studentYear "2002"^^xsd:string .
+
+db_lab:student_19790702-0038 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10011 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19790702-0038"^^xsd:string ;
+    db_lab:studentName "TA 38"^^xsd:string ;
+    db_lab:studentProgramme "10011"^^xsd:string ;
+    db_lab:studentYear "2014"^^xsd:string .
+
+db_lab:student_19790708-0041 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10021 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19790708-0041"^^xsd:string ;
+    db_lab:studentName "TA 41"^^xsd:string ;
+    db_lab:studentProgramme "10021"^^xsd:string ;
+    db_lab:studentYear "2011"^^xsd:string .
+
+db_lab:student_19790717-0045 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10053 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19790717-0045"^^xsd:string ;
+    db_lab:studentName "TA 45"^^xsd:string ;
+    db_lab:studentProgramme "10053"^^xsd:string ;
+    db_lab:studentYear "2012"^^xsd:string .
+
+db_lab:student_19850124-0067 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10052 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19850124-0067"^^xsd:string ;
+    db_lab:studentName "Student 68"^^xsd:string ;
+    db_lab:studentProgramme "10052"^^xsd:string ;
+    db_lab:studentYear "2015"^^xsd:string .
+
+db_lab:student_19850205-0022 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10053 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19850205-0022"^^xsd:string ;
+    db_lab:studentName "Student 23"^^xsd:string ;
+    db_lab:studentProgramme "10053"^^xsd:string ;
+    db_lab:studentYear "2011"^^xsd:string .
+
+db_lab:student_19850206-0077 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10061 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19850206-0077"^^xsd:string ;
+    db_lab:studentName "Student 78"^^xsd:string ;
+    db_lab:studentProgramme "10061"^^xsd:string ;
+    db_lab:studentYear "2014"^^xsd:string .
+
+db_lab:student_19850305-0003 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10032 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19850305-0003"^^xsd:string ;
+    db_lab:studentName "Student 4"^^xsd:string ;
+    db_lab:studentProgramme "10032"^^xsd:string ;
+    db_lab:studentYear "2015"^^xsd:string .
+
+db_lab:student_19850426-0018 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10071 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19850426-0018"^^xsd:string ;
+    db_lab:studentName "Student 19"^^xsd:string ;
+    db_lab:studentProgramme "10071"^^xsd:string ;
+    db_lab:studentYear "2012"^^xsd:string .
+
+db_lab:student_19850504-0054 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10053 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19850504-0054"^^xsd:string ;
+    db_lab:studentName "Student 55"^^xsd:string ;
+    db_lab:studentProgramme "10053"^^xsd:string ;
+    db_lab:studentYear "2011"^^xsd:string .
+
+db_lab:student_19850522-0072 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10001 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19850522-0072"^^xsd:string ;
+    db_lab:studentName "Student 73"^^xsd:string ;
+    db_lab:studentProgramme "10001"^^xsd:string ;
+    db_lab:studentYear "2014"^^xsd:string .
+
+db_lab:student_19850527-0011 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10013 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19850527-0011"^^xsd:string ;
+    db_lab:studentName "Student 12"^^xsd:string ;
+    db_lab:studentProgramme "10013"^^xsd:string ;
+    db_lab:studentYear "2012"^^xsd:string .
+
+db_lab:student_19850603-0006 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10041 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19850603-0006"^^xsd:string ;
+    db_lab:studentName "Student 7"^^xsd:string ;
+    db_lab:studentProgramme "10041"^^xsd:string ;
+    db_lab:studentYear "2013"^^xsd:string .
+
+db_lab:student_19850704-0062 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10021 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19850704-0062"^^xsd:string ;
+    db_lab:studentName "Student 63"^^xsd:string ;
+    db_lab:studentProgramme "10021"^^xsd:string ;
+    db_lab:studentYear "2014"^^xsd:string .
+
+db_lab:student_19850709-0081 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10074 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19850709-0081"^^xsd:string ;
+    db_lab:studentName "Student 82"^^xsd:string ;
+    db_lab:studentProgramme "10074"^^xsd:string ;
+    db_lab:studentYear "2011"^^xsd:string .
+
+db_lab:student_19851109-0051 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10034 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19851109-0051"^^xsd:string ;
+    db_lab:studentName "Student 52"^^xsd:string ;
+    db_lab:studentProgramme "10034"^^xsd:string ;
+    db_lab:studentYear "2013"^^xsd:string .
+
+db_lab:student_19851112-0084 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10053 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19851112-0084"^^xsd:string ;
+    db_lab:studentName "Student 85"^^xsd:string ;
+    db_lab:studentProgramme "10053"^^xsd:string ;
+    db_lab:studentYear "2015"^^xsd:string .
+
+db_lab:student_19851126-0070 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10032 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19851126-0070"^^xsd:string ;
+    db_lab:studentName "Student 71"^^xsd:string ;
+    db_lab:studentProgramme "10032"^^xsd:string ;
+    db_lab:studentYear "2015"^^xsd:string .
+
+db_lab:student_19851213-0025 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10071 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19851213-0025"^^xsd:string ;
+    db_lab:studentName "Student 26"^^xsd:string ;
+    db_lab:studentProgramme "10071"^^xsd:string ;
+    db_lab:studentYear "2014"^^xsd:string .
+
+db_lab:student_19860118-0053 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10073 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19860118-0053"^^xsd:string ;
+    db_lab:studentName "Student 54"^^xsd:string ;
+    db_lab:studentProgramme "10073"^^xsd:string ;
+    db_lab:studentYear "2010"^^xsd:string .
+
+db_lab:student_19860119-0049 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10001 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19860119-0049"^^xsd:string ;
+    db_lab:studentName "Student 50"^^xsd:string ;
+    db_lab:studentProgramme "10001"^^xsd:string ;
+    db_lab:studentYear "2014"^^xsd:string .
+
+db_lab:student_19860125-0015 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10042 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19860125-0015"^^xsd:string ;
+    db_lab:studentName "Student 16"^^xsd:string ;
+    db_lab:studentProgramme "10042"^^xsd:string ;
+    db_lab:studentYear "2011"^^xsd:string .
+
+db_lab:student_19860128-0061 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10033 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19860128-0061"^^xsd:string ;
+    db_lab:studentName "Student 62"^^xsd:string ;
+    db_lab:studentProgramme "10033"^^xsd:string ;
+    db_lab:studentYear "2014"^^xsd:string .
+
+db_lab:student_19860208-0024 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10073 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19860208-0024"^^xsd:string ;
+    db_lab:studentName "Student 25"^^xsd:string ;
+    db_lab:studentProgramme "10073"^^xsd:string ;
+    db_lab:studentYear "2011"^^xsd:string .
+
+db_lab:student_19860211-0004 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10042 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19860211-0004"^^xsd:string ;
+    db_lab:studentName "Student 5"^^xsd:string ;
+    db_lab:studentProgramme "10042"^^xsd:string ;
+    db_lab:studentYear "2012"^^xsd:string .
+
+db_lab:student_19860222-0007 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10054 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19860222-0007"^^xsd:string ;
+    db_lab:studentName "Student 8"^^xsd:string ;
+    db_lab:studentProgramme "10054"^^xsd:string ;
+    db_lab:studentYear "2014"^^xsd:string .
+
+db_lab:student_19860309-0002 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10021 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19860309-0002"^^xsd:string ;
+    db_lab:studentName "Student 3"^^xsd:string ;
+    db_lab:studentProgramme "10021"^^xsd:string ;
+    db_lab:studentYear "2014"^^xsd:string .
+
+db_lab:student_19860321-0097 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10041 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19860321-0097"^^xsd:string ;
+    db_lab:studentName "Student 98"^^xsd:string ;
+    db_lab:studentProgramme "10041"^^xsd:string ;
+    db_lab:studentYear "2015"^^xsd:string .
+
+db_lab:student_19860330-0008 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10012 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19860330-0008"^^xsd:string ;
+    db_lab:studentName "Student 9"^^xsd:string ;
+    db_lab:studentProgramme "10012"^^xsd:string ;
+    db_lab:studentYear "2010"^^xsd:string .
+
+db_lab:student_19860412-0063 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10031 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19860412-0063"^^xsd:string ;
+    db_lab:studentName "Student 64"^^xsd:string ;
+    db_lab:studentProgramme "10031"^^xsd:string ;
+    db_lab:studentYear "2012"^^xsd:string .
+
+db_lab:student_19860516-0078 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10071 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19860516-0078"^^xsd:string ;
+    db_lab:studentName "Student 79"^^xsd:string ;
+    db_lab:studentProgramme "10071"^^xsd:string ;
+    db_lab:studentYear "2012"^^xsd:string .
+
+db_lab:student_19860729-0021 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10011 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19860729-0021"^^xsd:string ;
+    db_lab:studentName "Student 22"^^xsd:string ;
+    db_lab:studentProgramme "10011"^^xsd:string ;
+    db_lab:studentYear "2010"^^xsd:string .
+
+db_lab:student_19860829-0010 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10074 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19860829-0010"^^xsd:string ;
+    db_lab:studentName "Student 11"^^xsd:string ;
+    db_lab:studentProgramme "10074"^^xsd:string ;
+    db_lab:studentYear "2013"^^xsd:string .
+
+db_lab:student_19861011-0071 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10011 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19861011-0071"^^xsd:string ;
+    db_lab:studentName "Student 72"^^xsd:string ;
+    db_lab:studentProgramme "10011"^^xsd:string ;
+    db_lab:studentYear "2010"^^xsd:string .
+
+db_lab:student_19861015-0085 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10073 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19861015-0085"^^xsd:string ;
+    db_lab:studentName "Student 86"^^xsd:string ;
+    db_lab:studentProgramme "10073"^^xsd:string ;
+    db_lab:studentYear "2013"^^xsd:string .
+
+db_lab:student_19861017-0014 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10011 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19861017-0014"^^xsd:string ;
+    db_lab:studentName "Student 15"^^xsd:string ;
+    db_lab:studentProgramme "10011"^^xsd:string ;
+    db_lab:studentYear "2012"^^xsd:string .
+
+db_lab:student_19861018-0009 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10074 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19861018-0009"^^xsd:string ;
+    db_lab:studentName "Student 10"^^xsd:string ;
+    db_lab:studentProgramme "10074"^^xsd:string ;
+    db_lab:studentYear "2012"^^xsd:string .
+
+db_lab:student_19861115-0074 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10073 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19861115-0074"^^xsd:string ;
+    db_lab:studentName "Student 75"^^xsd:string ;
+    db_lab:studentProgramme "10073"^^xsd:string ;
+    db_lab:studentYear "2013"^^xsd:string .
+
+db_lab:student_19861117-0057 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10073 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19861117-0057"^^xsd:string ;
+    db_lab:studentName "Student 58"^^xsd:string ;
+    db_lab:studentProgramme "10073"^^xsd:string ;
+    db_lab:studentYear "2014"^^xsd:string .
+
+db_lab:student_19861216-0066 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10031 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19861216-0066"^^xsd:string ;
+    db_lab:studentName "Student 67"^^xsd:string ;
+    db_lab:studentProgramme "10031"^^xsd:string ;
+    db_lab:studentYear "2015"^^xsd:string .
+
+db_lab:student_19870128-0080 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10021 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19870128-0080"^^xsd:string ;
+    db_lab:studentName "Student 81"^^xsd:string ;
+    db_lab:studentProgramme "10021"^^xsd:string ;
+    db_lab:studentYear "2012"^^xsd:string .
+
+db_lab:student_19870209-0091 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10071 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19870209-0091"^^xsd:string ;
+    db_lab:studentName "Student 92"^^xsd:string ;
+    db_lab:studentProgramme "10071"^^xsd:string ;
+    db_lab:studentYear "2014"^^xsd:string .
+
+db_lab:student_19870215-0031 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10073 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19870215-0031"^^xsd:string ;
+    db_lab:studentName "Student 32"^^xsd:string ;
+    db_lab:studentProgramme "10073"^^xsd:string ;
+    db_lab:studentYear "2015"^^xsd:string .
+
+db_lab:student_19870304-0086 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10071 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19870304-0086"^^xsd:string ;
+    db_lab:studentName "Student 87"^^xsd:string ;
+    db_lab:studentProgramme "10071"^^xsd:string ;
+    db_lab:studentYear "2012"^^xsd:string .
+
+db_lab:student_19870304-0096 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10011 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19870304-0096"^^xsd:string ;
+    db_lab:studentName "Student 97"^^xsd:string ;
+    db_lab:studentProgramme "10011"^^xsd:string ;
+    db_lab:studentYear "2010"^^xsd:string .
+
+db_lab:student_19870308-0083 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10032 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19870308-0083"^^xsd:string ;
+    db_lab:studentName "Student 84"^^xsd:string ;
+    db_lab:studentProgramme "10032"^^xsd:string ;
+    db_lab:studentYear "2014"^^xsd:string .
+
+db_lab:student_19870406-0027 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10052 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19870406-0027"^^xsd:string ;
+    db_lab:studentName "Student 28"^^xsd:string ;
+    db_lab:studentProgramme "10052"^^xsd:string ;
+    db_lab:studentYear "2011"^^xsd:string .
+
+db_lab:student_19870412-0048 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10012 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19870412-0048"^^xsd:string ;
+    db_lab:studentName "Student 49"^^xsd:string ;
+    db_lab:studentProgramme "10012"^^xsd:string ;
+    db_lab:studentYear "2013"^^xsd:string .
+
+db_lab:student_19870414-0044 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10011 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19870414-0044"^^xsd:string ;
+    db_lab:studentName "Student 45"^^xsd:string ;
+    db_lab:studentProgramme "10011"^^xsd:string ;
+    db_lab:studentYear "2010"^^xsd:string .
+
+db_lab:student_19870418-0095 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10031 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19870418-0095"^^xsd:string ;
+    db_lab:studentName "Student 96"^^xsd:string ;
+    db_lab:studentProgramme "10031"^^xsd:string ;
+    db_lab:studentYear "2011"^^xsd:string .
+
+db_lab:student_19870421-0042 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10033 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19870421-0042"^^xsd:string ;
+    db_lab:studentName "Student 43"^^xsd:string ;
+    db_lab:studentProgramme "10033"^^xsd:string ;
+    db_lab:studentYear "2011"^^xsd:string .
+
+db_lab:student_19870422-0037 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10032 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19870422-0037"^^xsd:string ;
+    db_lab:studentName "Student 38"^^xsd:string ;
+    db_lab:studentProgramme "10032"^^xsd:string ;
+    db_lab:studentYear "2013"^^xsd:string .
+
+db_lab:student_19870427-0056 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10073 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19870427-0056"^^xsd:string ;
+    db_lab:studentName "Student 57"^^xsd:string ;
+    db_lab:studentProgramme "10073"^^xsd:string ;
+    db_lab:studentYear "2013"^^xsd:string .
+
+db_lab:student_19870507-0082 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10012 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19870507-0082"^^xsd:string ;
+    db_lab:studentName "Student 83"^^xsd:string ;
+    db_lab:studentProgramme "10012"^^xsd:string ;
+    db_lab:studentYear "2013"^^xsd:string .
+
+db_lab:student_19870512-0028 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10052 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19870512-0028"^^xsd:string ;
+    db_lab:studentName "Student 29"^^xsd:string ;
+    db_lab:studentProgramme "10052"^^xsd:string ;
+    db_lab:studentYear "2013"^^xsd:string .
+
+db_lab:student_19870613-0013 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10051 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19870613-0013"^^xsd:string ;
+    db_lab:studentName "Student 14"^^xsd:string ;
+    db_lab:studentProgramme "10051"^^xsd:string ;
+    db_lab:studentYear "2010"^^xsd:string .
+
+db_lab:student_19870624-0026 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10072 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19870624-0026"^^xsd:string ;
+    db_lab:studentName "Student 27"^^xsd:string ;
+    db_lab:studentProgramme "10072"^^xsd:string ;
+    db_lab:studentYear "2010"^^xsd:string .
+
+db_lab:student_19870714-0017 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10013 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19870714-0017"^^xsd:string ;
+    db_lab:studentName "Student 18"^^xsd:string ;
+    db_lab:studentProgramme "10013"^^xsd:string ;
+    db_lab:studentYear "2012"^^xsd:string .
+
+db_lab:student_19870720-0041 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10042 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19870720-0041"^^xsd:string ;
+    db_lab:studentName "Student 42"^^xsd:string ;
+    db_lab:studentProgramme "10042"^^xsd:string ;
+    db_lab:studentYear "2015"^^xsd:string .
+
+db_lab:student_19870727-0069 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10014 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19870727-0069"^^xsd:string ;
+    db_lab:studentName "Student 70"^^xsd:string ;
+    db_lab:studentProgramme "10014"^^xsd:string ;
+    db_lab:studentYear "2013"^^xsd:string .
+
+db_lab:student_19870813-0088 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10042 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19870813-0088"^^xsd:string ;
+    db_lab:studentName "Student 89"^^xsd:string ;
+    db_lab:studentProgramme "10042"^^xsd:string ;
+    db_lab:studentYear "2012"^^xsd:string .
+
+db_lab:student_19870816-0019 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10071 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19870816-0019"^^xsd:string ;
+    db_lab:studentName "Student 20"^^xsd:string ;
+    db_lab:studentProgramme "10071"^^xsd:string ;
+    db_lab:studentYear "2011"^^xsd:string .
+
+db_lab:student_19870901-0087 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10051 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19870901-0087"^^xsd:string ;
+    db_lab:studentName "Student 88"^^xsd:string ;
+    db_lab:studentProgramme "10051"^^xsd:string ;
+    db_lab:studentYear "2011"^^xsd:string .
+
+db_lab:student_19870918-0064 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10042 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19870918-0064"^^xsd:string ;
+    db_lab:studentName "Student 65"^^xsd:string ;
+    db_lab:studentProgramme "10042"^^xsd:string ;
+    db_lab:studentYear "2012"^^xsd:string .
+
+db_lab:student_19870921-0092 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10051 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19870921-0092"^^xsd:string ;
+    db_lab:studentName "Student 93"^^xsd:string ;
+    db_lab:studentProgramme "10051"^^xsd:string ;
+    db_lab:studentYear "2012"^^xsd:string .
+
+db_lab:student_19871013-0089 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10032 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19871013-0089"^^xsd:string ;
+    db_lab:studentName "Student 90"^^xsd:string ;
+    db_lab:studentProgramme "10032"^^xsd:string ;
+    db_lab:studentYear "2013"^^xsd:string .
+
+db_lab:student_19871019-0098 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10071 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19871019-0098"^^xsd:string ;
+    db_lab:studentName "Student 99"^^xsd:string ;
+    db_lab:studentProgramme "10071"^^xsd:string ;
+    db_lab:studentYear "2010"^^xsd:string .
+
+db_lab:student_19871023-0038 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10034 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19871023-0038"^^xsd:string ;
+    db_lab:studentName "Student 39"^^xsd:string ;
+    db_lab:studentProgramme "10034"^^xsd:string ;
+    db_lab:studentYear "2010"^^xsd:string .
+
+db_lab:student_19871102-0016 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10014 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19871102-0016"^^xsd:string ;
+    db_lab:studentName "Student 17"^^xsd:string ;
+    db_lab:studentProgramme "10014"^^xsd:string ;
+    db_lab:studentYear "2011"^^xsd:string .
+
+db_lab:student_19871111-0073 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10012 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19871111-0073"^^xsd:string ;
+    db_lab:studentName "Student 74"^^xsd:string ;
+    db_lab:studentProgramme "10012"^^xsd:string ;
+    db_lab:studentYear "2010"^^xsd:string .
+
+db_lab:student_19871128-0099 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10074 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19871128-0099"^^xsd:string ;
+    db_lab:studentName "Student 100"^^xsd:string ;
+    db_lab:studentProgramme "10074"^^xsd:string ;
+    db_lab:studentYear "2012"^^xsd:string .
+
+db_lab:student_19880117-0001 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10021 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19880117-0001"^^xsd:string ;
+    db_lab:studentName "Student 2"^^xsd:string ;
+    db_lab:studentProgramme "10021"^^xsd:string ;
+    db_lab:studentYear "2010"^^xsd:string .
+
+db_lab:student_19880118-0068 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10051 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19880118-0068"^^xsd:string ;
+    db_lab:studentName "Student 69"^^xsd:string ;
+    db_lab:studentProgramme "10051"^^xsd:string ;
+    db_lab:studentYear "2014"^^xsd:string .
+
+db_lab:student_19880122-0005 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10053 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19880122-0005"^^xsd:string ;
+    db_lab:studentName "Student 6"^^xsd:string ;
+    db_lab:studentProgramme "10053"^^xsd:string ;
+    db_lab:studentYear "2014"^^xsd:string .
+
+db_lab:student_19880204-0045 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10011 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19880204-0045"^^xsd:string ;
+    db_lab:studentName "Student 46"^^xsd:string ;
+    db_lab:studentProgramme "10011"^^xsd:string ;
+    db_lab:studentYear "2014"^^xsd:string .
+
+db_lab:student_19880205-0030 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10042 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19880205-0030"^^xsd:string ;
+    db_lab:studentName "Student 31"^^xsd:string ;
+    db_lab:studentProgramme "10042"^^xsd:string ;
+    db_lab:studentYear "2011"^^xsd:string .
+
+db_lab:student_19880307-0065 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10072 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19880307-0065"^^xsd:string ;
+    db_lab:studentName "Student 66"^^xsd:string ;
+    db_lab:studentProgramme "10072"^^xsd:string ;
+    db_lab:studentYear "2015"^^xsd:string .
+
+db_lab:student_19880404-0020 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10074 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19880404-0020"^^xsd:string ;
+    db_lab:studentName "Student 21"^^xsd:string ;
+    db_lab:studentProgramme "10074"^^xsd:string ;
+    db_lab:studentYear "2014"^^xsd:string .
+
+db_lab:student_19880522-0050 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10012 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19880522-0050"^^xsd:string ;
+    db_lab:studentName "Student 51"^^xsd:string ;
+    db_lab:studentProgramme "10012"^^xsd:string ;
+    db_lab:studentYear "2015"^^xsd:string .
+
+db_lab:student_19880807-0046 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10041 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19880807-0046"^^xsd:string ;
+    db_lab:studentName "Student 47"^^xsd:string ;
+    db_lab:studentProgramme "10041"^^xsd:string ;
+    db_lab:studentYear "2012"^^xsd:string .
+
+db_lab:student_19880818-0043 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10073 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19880818-0043"^^xsd:string ;
+    db_lab:studentName "Student 44"^^xsd:string ;
+    db_lab:studentProgramme "10073"^^xsd:string ;
+    db_lab:studentYear "2012"^^xsd:string .
+
+db_lab:student_19881020-0039 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10012 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19881020-0039"^^xsd:string ;
+    db_lab:studentName "Student 40"^^xsd:string ;
+    db_lab:studentProgramme "10012"^^xsd:string ;
+    db_lab:studentYear "2015"^^xsd:string .
+
+db_lab:student_19881120-0090 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10072 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19881120-0090"^^xsd:string ;
+    db_lab:studentName "Student 91"^^xsd:string ;
+    db_lab:studentProgramme "10072"^^xsd:string ;
+    db_lab:studentYear "2014"^^xsd:string .
+
+db_lab:student_19881204-0033 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10041 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19881204-0033"^^xsd:string ;
+    db_lab:studentName "Student 34"^^xsd:string ;
+    db_lab:studentProgramme "10041"^^xsd:string ;
+    db_lab:studentYear "2014"^^xsd:string .
+
+db_lab:student_19881216-0040 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10014 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19881216-0040"^^xsd:string ;
+    db_lab:studentName "Student 41"^^xsd:string ;
+    db_lab:studentProgramme "10014"^^xsd:string ;
+    db_lab:studentYear "2015"^^xsd:string .
+
+db_lab:student_19890106-0094 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10011 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19890106-0094"^^xsd:string ;
+    db_lab:studentName "Student 95"^^xsd:string ;
+    db_lab:studentProgramme "10011"^^xsd:string ;
+    db_lab:studentYear "2010"^^xsd:string .
+
+db_lab:student_19890202-0093 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10014 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19890202-0093"^^xsd:string ;
+    db_lab:studentName "Student 94"^^xsd:string ;
+    db_lab:studentProgramme "10014"^^xsd:string ;
+    db_lab:studentYear "2014"^^xsd:string .
+
+db_lab:student_19890219-0047 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10034 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19890219-0047"^^xsd:string ;
+    db_lab:studentName "Student 48"^^xsd:string ;
+    db_lab:studentProgramme "10034"^^xsd:string ;
+    db_lab:studentYear "2013"^^xsd:string .
+
+db_lab:student_19890225-0029 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10021 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19890225-0029"^^xsd:string ;
+    db_lab:studentName "Student 30"^^xsd:string ;
+    db_lab:studentProgramme "10021"^^xsd:string ;
+    db_lab:studentYear "2010"^^xsd:string .
+
+db_lab:student_19890302-0055 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10032 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19890302-0055"^^xsd:string ;
+    db_lab:studentName "Student 56"^^xsd:string ;
+    db_lab:studentProgramme "10032"^^xsd:string ;
+    db_lab:studentYear "2010"^^xsd:string .
+
+db_lab:student_19890303-0075 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10034 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19890303-0075"^^xsd:string ;
+    db_lab:studentName "Student 76"^^xsd:string ;
+    db_lab:studentProgramme "10034"^^xsd:string ;
+    db_lab:studentYear "2010"^^xsd:string .
+
+db_lab:student_19890416-0034 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10051 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19890416-0034"^^xsd:string ;
+    db_lab:studentName "Student 35"^^xsd:string ;
+    db_lab:studentProgramme "10051"^^xsd:string ;
+    db_lab:studentYear "2015"^^xsd:string .
+
+db_lab:student_19890513-0032 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10021 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19890513-0032"^^xsd:string ;
+    db_lab:studentName "Student 33"^^xsd:string ;
+    db_lab:studentProgramme "10021"^^xsd:string ;
+    db_lab:studentYear "2011"^^xsd:string .
+
+db_lab:student_19890611-0052 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10031 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19890611-0052"^^xsd:string ;
+    db_lab:studentName "Student 53"^^xsd:string ;
+    db_lab:studentProgramme "10031"^^xsd:string ;
+    db_lab:studentYear "2014"^^xsd:string .
+
+db_lab:student_19890622-0076 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10021 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19890622-0076"^^xsd:string ;
+    db_lab:studentName "Student 77"^^xsd:string ;
+    db_lab:studentProgramme "10021"^^xsd:string ;
+    db_lab:studentYear "2014"^^xsd:string .
+
+db_lab:student_19890705-0059 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10053 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19890705-0059"^^xsd:string ;
+    db_lab:studentName "Student 60"^^xsd:string ;
+    db_lab:studentProgramme "10053"^^xsd:string ;
+    db_lab:studentYear "2015"^^xsd:string .
+
+db_lab:student_19890927-0036 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10051 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19890927-0036"^^xsd:string ;
+    db_lab:studentName "Student 37"^^xsd:string ;
+    db_lab:studentProgramme "10051"^^xsd:string ;
+    db_lab:studentYear "2014"^^xsd:string .
+
+db_lab:student_19891011-0035 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10052 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19891011-0035"^^xsd:string ;
+    db_lab:studentName "Student 36"^^xsd:string ;
+    db_lab:studentProgramme "10052"^^xsd:string ;
+    db_lab:studentYear "2013"^^xsd:string .
+
+db_lab:student_19891104-0079 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10014 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19891104-0079"^^xsd:string ;
+    db_lab:studentName "Student 80"^^xsd:string ;
+    db_lab:studentProgramme "10014"^^xsd:string ;
+    db_lab:studentYear "2012"^^xsd:string .
+
+db_lab:student_19891109-0058 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10041 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19891109-0058"^^xsd:string ;
+    db_lab:studentName "Student 59"^^xsd:string ;
+    db_lab:studentProgramme "10041"^^xsd:string ;
+    db_lab:studentYear "2013"^^xsd:string .
+
+db_lab:student_19891130-0023 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10072 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19891130-0023"^^xsd:string ;
+    db_lab:studentName "Student 24"^^xsd:string ;
+    db_lab:studentProgramme "10072"^^xsd:string ;
+    db_lab:studentYear "2014"^^xsd:string .
+
+db_lab:student_19891205-0000 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10012 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19891205-0000"^^xsd:string ;
+    db_lab:studentName "Student 1"^^xsd:string ;
+    db_lab:studentProgramme "10012"^^xsd:string ;
+    db_lab:studentYear "2010"^^xsd:string .
+
+db_lab:student_19891217-0012 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10051 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19891217-0012"^^xsd:string ;
+    db_lab:studentName "Student 13"^^xsd:string ;
+    db_lab:studentProgramme "10051"^^xsd:string ;
+    db_lab:studentYear "2014"^^xsd:string .
+
+db_lab:student_19891221-0060 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10033 ;
+    db_lab:graduated true ;
+    db_lab:studentId "19891221-0060"^^xsd:string ;
+    db_lab:studentName "Student 61"^^xsd:string ;
+    db_lab:studentProgramme "10033"^^xsd:string ;
+    db_lab:studentYear "2010"^^xsd:string .
+
+db_lab:student_19900119-0104 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10061 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19900119-0104"^^xsd:string ;
+    db_lab:studentName "TA 104"^^xsd:string ;
+    db_lab:studentProgramme "10061"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19900124-0064 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10011 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19900124-0064"^^xsd:string ;
+    db_lab:studentName "TA 64"^^xsd:string ;
+    db_lab:studentProgramme "10011"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19900128-0095 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10031 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19900128-0095"^^xsd:string ;
+    db_lab:studentName "TA 95"^^xsd:string ;
+    db_lab:studentProgramme "10031"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19900201-0074 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10011 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19900201-0074"^^xsd:string ;
+    db_lab:studentName "TA 74"^^xsd:string ;
+    db_lab:studentProgramme "10011"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19900211-0140 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10031 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19900211-0140"^^xsd:string ;
+    db_lab:studentName "TA 140"^^xsd:string ;
+    db_lab:studentProgramme "10031"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19900307-0105 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10032 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19900307-0105"^^xsd:string ;
+    db_lab:studentName "TA 105"^^xsd:string ;
+    db_lab:studentProgramme "10032"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19900317-0083 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10054 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19900317-0083"^^xsd:string ;
+    db_lab:studentName "TA 83"^^xsd:string ;
+    db_lab:studentProgramme "10054"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19900321-0080 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10013 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19900321-0080"^^xsd:string ;
+    db_lab:studentName "TA 80"^^xsd:string ;
+    db_lab:studentProgramme "10013"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19900426-0089 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10053 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19900426-0089"^^xsd:string ;
+    db_lab:studentName "TA 89"^^xsd:string ;
+    db_lab:studentProgramme "10053"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19900430-0112 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10071 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19900430-0112"^^xsd:string ;
+    db_lab:studentName "TA 112"^^xsd:string ;
+    db_lab:studentProgramme "10071"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19900511-0134 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10034 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19900511-0134"^^xsd:string ;
+    db_lab:studentName "TA 134"^^xsd:string ;
+    db_lab:studentProgramme "10034"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19900520-0063 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10074 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19900520-0063"^^xsd:string ;
+    db_lab:studentName "TA 63"^^xsd:string ;
+    db_lab:studentProgramme "10074"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19900616-0124 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10001 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19900616-0124"^^xsd:string ;
+    db_lab:studentName "TA 124"^^xsd:string ;
+    db_lab:studentProgramme "10001"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19900619-0076 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10053 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19900619-0076"^^xsd:string ;
+    db_lab:studentName "TA 76"^^xsd:string ;
+    db_lab:studentProgramme "10053"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19900701-0113 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10033 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19900701-0113"^^xsd:string ;
+    db_lab:studentName "TA 113"^^xsd:string ;
+    db_lab:studentProgramme "10033"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19900701-0138 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10034 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19900701-0138"^^xsd:string ;
+    db_lab:studentName "TA 138"^^xsd:string ;
+    db_lab:studentProgramme "10034"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19900723-0126 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10061 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19900723-0126"^^xsd:string ;
+    db_lab:studentName "TA 126"^^xsd:string ;
+    db_lab:studentProgramme "10061"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19900801-0130 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10014 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19900801-0130"^^xsd:string ;
+    db_lab:studentName "TA 130"^^xsd:string ;
+    db_lab:studentProgramme "10014"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19900818-0116 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10073 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19900818-0116"^^xsd:string ;
+    db_lab:studentName "TA 116"^^xsd:string ;
+    db_lab:studentProgramme "10073"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19900902-0090 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10071 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19900902-0090"^^xsd:string ;
+    db_lab:studentName "TA 90"^^xsd:string ;
+    db_lab:studentProgramme "10071"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19900902-0114 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10014 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19900902-0114"^^xsd:string ;
+    db_lab:studentName "TA 114"^^xsd:string ;
+    db_lab:studentProgramme "10014"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19900909-0123 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10012 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19900909-0123"^^xsd:string ;
+    db_lab:studentName "TA 123"^^xsd:string ;
+    db_lab:studentProgramme "10012"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19901002-0085 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10031 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19901002-0085"^^xsd:string ;
+    db_lab:studentName "TA 85"^^xsd:string ;
+    db_lab:studentProgramme "10031"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19901011-0119 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10074 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19901011-0119"^^xsd:string ;
+    db_lab:studentName "TA 119"^^xsd:string ;
+    db_lab:studentProgramme "10074"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19901026-0111 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10051 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19901026-0111"^^xsd:string ;
+    db_lab:studentName "TA 111"^^xsd:string ;
+    db_lab:studentProgramme "10051"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19901029-0071 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10033 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19901029-0071"^^xsd:string ;
+    db_lab:studentName "TA 71"^^xsd:string ;
+    db_lab:studentProgramme "10033"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19901108-0087 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10051 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19901108-0087"^^xsd:string ;
+    db_lab:studentName "TA 87"^^xsd:string ;
+    db_lab:studentProgramme "10051"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19901219-0125 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10014 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19901219-0125"^^xsd:string ;
+    db_lab:studentName "TA 125"^^xsd:string ;
+    db_lab:studentProgramme "10014"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19910101-0133 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10014 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19910101-0133"^^xsd:string ;
+    db_lab:studentName "TA 133"^^xsd:string ;
+    db_lab:studentProgramme "10014"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19910122-0077 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10052 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19910122-0077"^^xsd:string ;
+    db_lab:studentName "TA 77"^^xsd:string ;
+    db_lab:studentProgramme "10052"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19910206-0081 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10014 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19910206-0081"^^xsd:string ;
+    db_lab:studentName "TA 81"^^xsd:string ;
+    db_lab:studentProgramme "10014"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19910214-0084 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10031 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19910214-0084"^^xsd:string ;
+    db_lab:studentName "TA 84"^^xsd:string ;
+    db_lab:studentProgramme "10031"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19910327-0096 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10013 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19910327-0096"^^xsd:string ;
+    db_lab:studentName "TA 96"^^xsd:string ;
+    db_lab:studentProgramme "10013"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19910403-0103 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10042 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19910403-0103"^^xsd:string ;
+    db_lab:studentName "TA 103"^^xsd:string ;
+    db_lab:studentProgramme "10042"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19910403-0131 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10052 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19910403-0131"^^xsd:string ;
+    db_lab:studentName "TA 131"^^xsd:string ;
+    db_lab:studentProgramme "10052"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19910404-0102 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10051 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19910404-0102"^^xsd:string ;
+    db_lab:studentName "TA 102"^^xsd:string ;
+    db_lab:studentProgramme "10051"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19910421-0067 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10032 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19910421-0067"^^xsd:string ;
+    db_lab:studentName "TA 67"^^xsd:string ;
+    db_lab:studentProgramme "10032"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19910514-0068 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10074 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19910514-0068"^^xsd:string ;
+    db_lab:studentName "TA 68"^^xsd:string ;
+    db_lab:studentProgramme "10074"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19910817-0092 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10053 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19910817-0092"^^xsd:string ;
+    db_lab:studentName "TA 92"^^xsd:string ;
+    db_lab:studentProgramme "10053"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19910820-0078 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10021 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19910820-0078"^^xsd:string ;
+    db_lab:studentName "TA 78"^^xsd:string ;
+    db_lab:studentProgramme "10021"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19910822-0122 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10042 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19910822-0122"^^xsd:string ;
+    db_lab:studentName "TA 122"^^xsd:string ;
+    db_lab:studentProgramme "10042"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19910921-0136 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10072 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19910921-0136"^^xsd:string ;
+    db_lab:studentName "TA 136"^^xsd:string ;
+    db_lab:studentProgramme "10072"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19910927-0128 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10041 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19910927-0128"^^xsd:string ;
+    db_lab:studentName "TA 128"^^xsd:string ;
+    db_lab:studentProgramme "10041"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19911025-0091 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10051 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19911025-0091"^^xsd:string ;
+    db_lab:studentName "TA 91"^^xsd:string ;
+    db_lab:studentProgramme "10051"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19911116-0069 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10042 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19911116-0069"^^xsd:string ;
+    db_lab:studentName "TA 69"^^xsd:string ;
+    db_lab:studentProgramme "10042"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19920122-0065 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10021 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19920122-0065"^^xsd:string ;
+    db_lab:studentName "TA 65"^^xsd:string ;
+    db_lab:studentProgramme "10021"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19920206-0072 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10034 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19920206-0072"^^xsd:string ;
+    db_lab:studentName "TA 72"^^xsd:string ;
+    db_lab:studentProgramme "10034"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19920217-0098 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10072 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19920217-0098"^^xsd:string ;
+    db_lab:studentName "TA 98"^^xsd:string ;
+    db_lab:studentProgramme "10072"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19920226-0075 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10021 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19920226-0075"^^xsd:string ;
+    db_lab:studentName "TA 75"^^xsd:string ;
+    db_lab:studentProgramme "10021"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19920316-0107 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10041 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19920316-0107"^^xsd:string ;
+    db_lab:studentName "TA 107"^^xsd:string ;
+    db_lab:studentProgramme "10041"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19920320-0121 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10013 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19920320-0121"^^xsd:string ;
+    db_lab:studentName "TA 121"^^xsd:string ;
+    db_lab:studentProgramme "10013"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19920504-0093 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10014 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19920504-0093"^^xsd:string ;
+    db_lab:studentName "TA 93"^^xsd:string ;
+    db_lab:studentProgramme "10014"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19920505-0115 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10032 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19920505-0115"^^xsd:string ;
+    db_lab:studentName "TA 115"^^xsd:string ;
+    db_lab:studentProgramme "10032"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19920602-0073 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10041 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19920602-0073"^^xsd:string ;
+    db_lab:studentName "TA 73"^^xsd:string ;
+    db_lab:studentProgramme "10041"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19920826-0088 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10034 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19920826-0088"^^xsd:string ;
+    db_lab:studentName "TA 88"^^xsd:string ;
+    db_lab:studentProgramme "10034"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19920828-0070 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10042 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19920828-0070"^^xsd:string ;
+    db_lab:studentName "TA 70"^^xsd:string ;
+    db_lab:studentProgramme "10042"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19920917-0109 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10033 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19920917-0109"^^xsd:string ;
+    db_lab:studentName "TA 109"^^xsd:string ;
+    db_lab:studentProgramme "10033"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19921002-0129 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10031 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19921002-0129"^^xsd:string ;
+    db_lab:studentName "TA 129"^^xsd:string ;
+    db_lab:studentProgramme "10031"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19921123-0108 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10073 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19921123-0108"^^xsd:string ;
+    db_lab:studentName "TA 108"^^xsd:string ;
+    db_lab:studentProgramme "10073"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19921127-0120 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10053 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19921127-0120"^^xsd:string ;
+    db_lab:studentName "TA 120"^^xsd:string ;
+    db_lab:studentProgramme "10053"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19921201-0094 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10012 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19921201-0094"^^xsd:string ;
+    db_lab:studentName "TA 94"^^xsd:string ;
+    db_lab:studentProgramme "10012"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19921208-0097 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10071 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19921208-0097"^^xsd:string ;
+    db_lab:studentName "TA 97"^^xsd:string ;
+    db_lab:studentProgramme "10071"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19921218-0101 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10053 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19921218-0101"^^xsd:string ;
+    db_lab:studentName "TA 101"^^xsd:string ;
+    db_lab:studentProgramme "10053"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19930221-0139 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10052 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19930221-0139"^^xsd:string ;
+    db_lab:studentName "TA 139"^^xsd:string ;
+    db_lab:studentProgramme "10052"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19930228-0086 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10011 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19930228-0086"^^xsd:string ;
+    db_lab:studentName "TA 86"^^xsd:string ;
+    db_lab:studentProgramme "10011"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19930302-0135 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10031 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19930302-0135"^^xsd:string ;
+    db_lab:studentName "TA 135"^^xsd:string ;
+    db_lab:studentProgramme "10031"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19930326-0132 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10042 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19930326-0132"^^xsd:string ;
+    db_lab:studentName "TA 132"^^xsd:string ;
+    db_lab:studentProgramme "10042"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19930414-0106 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10072 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19930414-0106"^^xsd:string ;
+    db_lab:studentName "TA 106"^^xsd:string ;
+    db_lab:studentProgramme "10072"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19930508-0061 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10051 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19930508-0061"^^xsd:string ;
+    db_lab:studentName "TA 61"^^xsd:string ;
+    db_lab:studentProgramme "10051"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19930512-0117 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10052 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19930512-0117"^^xsd:string ;
+    db_lab:studentName "TA 117"^^xsd:string ;
+    db_lab:studentProgramme "10052"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19930616-0127 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10041 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19930616-0127"^^xsd:string ;
+    db_lab:studentName "TA 127"^^xsd:string ;
+    db_lab:studentProgramme "10041"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19930709-0100 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10052 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19930709-0100"^^xsd:string ;
+    db_lab:studentName "TA 100"^^xsd:string ;
+    db_lab:studentProgramme "10052"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19930829-0082 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10011 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19930829-0082"^^xsd:string ;
+    db_lab:studentName "TA 82"^^xsd:string ;
+    db_lab:studentProgramme "10011"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19930906-0110 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10052 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19930906-0110"^^xsd:string ;
+    db_lab:studentName "TA 110"^^xsd:string ;
+    db_lab:studentProgramme "10052"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19930919-0137 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10001 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19930919-0137"^^xsd:string ;
+    db_lab:studentName "TA 137"^^xsd:string ;
+    db_lab:studentProgramme "10001"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19931118-0062 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10012 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19931118-0062"^^xsd:string ;
+    db_lab:studentName "TA 62"^^xsd:string ;
+    db_lab:studentProgramme "10012"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19931203-0066 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10053 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19931203-0066"^^xsd:string ;
+    db_lab:studentName "TA 66"^^xsd:string ;
+    db_lab:studentProgramme "10053"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19931212-0079 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10042 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19931212-0079"^^xsd:string ;
+    db_lab:studentName "TA 79"^^xsd:string ;
+    db_lab:studentProgramme "10042"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19931226-0118 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10031 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19931226-0118"^^xsd:string ;
+    db_lab:studentName "TA 118"^^xsd:string ;
+    db_lab:studentProgramme "10031"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19931231-0099 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10053 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19931231-0099"^^xsd:string ;
+    db_lab:studentName "TA 99"^^xsd:string ;
+    db_lab:studentProgramme "10053"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19950124-0070 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10054 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19950124-0070"^^xsd:string ;
+    db_lab:studentName "Student 71"^^xsd:string ;
+    db_lab:studentProgramme "10054"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19950212-0185 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10042 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19950212-0185"^^xsd:string ;
+    db_lab:studentName "Student 186"^^xsd:string ;
+    db_lab:studentProgramme "10042"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19950214-0124 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10074 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19950214-0124"^^xsd:string ;
+    db_lab:studentName "Student 125"^^xsd:string ;
+    db_lab:studentProgramme "10074"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19950225-0128 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10033 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19950225-0128"^^xsd:string ;
+    db_lab:studentName "Student 129"^^xsd:string ;
+    db_lab:studentProgramme "10033"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19950225-0132 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10012 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19950225-0132"^^xsd:string ;
+    db_lab:studentName "Student 133"^^xsd:string ;
+    db_lab:studentProgramme "10012"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19950304-0007 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10071 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19950304-0007"^^xsd:string ;
+    db_lab:studentName "Student 8"^^xsd:string ;
+    db_lab:studentProgramme "10071"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19950308-0046 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10041 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19950308-0046"^^xsd:string ;
+    db_lab:studentName "Student 47"^^xsd:string ;
+    db_lab:studentProgramme "10041"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19950309-0074 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10031 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19950309-0074"^^xsd:string ;
+    db_lab:studentName "Student 75"^^xsd:string ;
+    db_lab:studentProgramme "10031"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19950316-0106 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10042 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19950316-0106"^^xsd:string ;
+    db_lab:studentName "Student 107"^^xsd:string ;
+    db_lab:studentProgramme "10042"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19950317-0140 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10013 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19950317-0140"^^xsd:string ;
+    db_lab:studentName "Student 141"^^xsd:string ;
+    db_lab:studentProgramme "10013"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19950319-0063 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10053 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19950319-0063"^^xsd:string ;
+    db_lab:studentName "Student 64"^^xsd:string ;
+    db_lab:studentProgramme "10053"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19950321-0080 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10042 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19950321-0080"^^xsd:string ;
+    db_lab:studentName "Student 81"^^xsd:string ;
+    db_lab:studentProgramme "10042"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19950331-0150 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10073 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19950331-0150"^^xsd:string ;
+    db_lab:studentName "Student 151"^^xsd:string ;
+    db_lab:studentProgramme "10073"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19950404-0079 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10033 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19950404-0079"^^xsd:string ;
+    db_lab:studentName "Student 80"^^xsd:string ;
+    db_lab:studentProgramme "10033"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19950427-0172 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10073 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19950427-0172"^^xsd:string ;
+    db_lab:studentName "Student 173"^^xsd:string ;
+    db_lab:studentProgramme "10073"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19950511-0111 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10021 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19950511-0111"^^xsd:string ;
+    db_lab:studentName "Student 112"^^xsd:string ;
+    db_lab:studentProgramme "10021"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19950522-0058 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10031 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19950522-0058"^^xsd:string ;
+    db_lab:studentName "Student 59"^^xsd:string ;
+    db_lab:studentProgramme "10031"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19950604-0143 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10072 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19950604-0143"^^xsd:string ;
+    db_lab:studentName "Student 144"^^xsd:string ;
+    db_lab:studentProgramme "10072"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19950606-0009 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10042 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19950606-0009"^^xsd:string ;
+    db_lab:studentName "Student 10"^^xsd:string ;
+    db_lab:studentProgramme "10042"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19950703-0085 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10061 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19950703-0085"^^xsd:string ;
+    db_lab:studentName "Student 86"^^xsd:string ;
+    db_lab:studentProgramme "10061"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19950707-0183 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10042 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19950707-0183"^^xsd:string ;
+    db_lab:studentName "Student 184"^^xsd:string ;
+    db_lab:studentProgramme "10042"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19950709-0123 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10013 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19950709-0123"^^xsd:string ;
+    db_lab:studentName "Student 124"^^xsd:string ;
+    db_lab:studentProgramme "10013"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19950717-0016 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10042 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19950717-0016"^^xsd:string ;
+    db_lab:studentName "Student 17"^^xsd:string ;
+    db_lab:studentProgramme "10042"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19950801-0037 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10072 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19950801-0037"^^xsd:string ;
+    db_lab:studentName "Student 38"^^xsd:string ;
+    db_lab:studentProgramme "10072"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19950817-0125 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10054 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19950817-0125"^^xsd:string ;
+    db_lab:studentName "Student 126"^^xsd:string ;
+    db_lab:studentProgramme "10054"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19950818-0148 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10061 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19950818-0148"^^xsd:string ;
+    db_lab:studentName "Student 149"^^xsd:string ;
+    db_lab:studentProgramme "10061"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19950821-0102 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10011 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19950821-0102"^^xsd:string ;
+    db_lab:studentName "Student 103"^^xsd:string ;
+    db_lab:studentProgramme "10011"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19950824-0044 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10033 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19950824-0044"^^xsd:string ;
+    db_lab:studentName "Student 45"^^xsd:string ;
+    db_lab:studentProgramme "10033"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19950829-0060 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10021 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19950829-0060"^^xsd:string ;
+    db_lab:studentName "Student 61"^^xsd:string ;
+    db_lab:studentProgramme "10021"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19950831-0179 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10053 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19950831-0179"^^xsd:string ;
+    db_lab:studentName "Student 180"^^xsd:string ;
+    db_lab:studentProgramme "10053"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19950907-0084 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10021 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19950907-0084"^^xsd:string ;
+    db_lab:studentName "Student 85"^^xsd:string ;
+    db_lab:studentProgramme "10021"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19950912-0181 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10073 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19950912-0181"^^xsd:string ;
+    db_lab:studentName "Student 182"^^xsd:string ;
+    db_lab:studentProgramme "10073"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19950913-0176 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10052 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19950913-0176"^^xsd:string ;
+    db_lab:studentName "Student 177"^^xsd:string ;
+    db_lab:studentProgramme "10052"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19950924-0115 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10053 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19950924-0115"^^xsd:string ;
+    db_lab:studentName "Student 116"^^xsd:string ;
+    db_lab:studentProgramme "10053"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19950925-0171 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10052 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19950925-0171"^^xsd:string ;
+    db_lab:studentName "Student 172"^^xsd:string ;
+    db_lab:studentProgramme "10052"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19951001-0193 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10013 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19951001-0193"^^xsd:string ;
+    db_lab:studentName "Student 194"^^xsd:string ;
+    db_lab:studentProgramme "10013"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19951006-0053 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10071 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19951006-0053"^^xsd:string ;
+    db_lab:studentName "Student 54"^^xsd:string ;
+    db_lab:studentProgramme "10071"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19951026-0010 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10011 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19951026-0010"^^xsd:string ;
+    db_lab:studentName "Student 11"^^xsd:string ;
+    db_lab:studentProgramme "10011"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19951121-0068 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10014 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19951121-0068"^^xsd:string ;
+    db_lab:studentName "Student 69"^^xsd:string ;
+    db_lab:studentProgramme "10014"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19951123-0027 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10073 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19951123-0027"^^xsd:string ;
+    db_lab:studentName "Student 28"^^xsd:string ;
+    db_lab:studentProgramme "10073"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19951130-0139 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10073 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19951130-0139"^^xsd:string ;
+    db_lab:studentName "Student 140"^^xsd:string ;
+    db_lab:studentProgramme "10073"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19951130-0159 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10034 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19951130-0159"^^xsd:string ;
+    db_lab:studentName "Student 160"^^xsd:string ;
+    db_lab:studentProgramme "10034"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19960101-0101 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10034 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19960101-0101"^^xsd:string ;
+    db_lab:studentName "Student 102"^^xsd:string ;
+    db_lab:studentProgramme "10034"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19960118-0040 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10012 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19960118-0040"^^xsd:string ;
+    db_lab:studentName "Student 41"^^xsd:string ;
+    db_lab:studentProgramme "10012"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19960118-0110 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10072 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19960118-0110"^^xsd:string ;
+    db_lab:studentName "Student 111"^^xsd:string ;
+    db_lab:studentProgramme "10072"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19960123-0104 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10061 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19960123-0104"^^xsd:string ;
+    db_lab:studentName "Student 105"^^xsd:string ;
+    db_lab:studentProgramme "10061"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19960213-0001 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10011 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19960213-0001"^^xsd:string ;
+    db_lab:studentName "Student 2"^^xsd:string ;
+    db_lab:studentProgramme "10011"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19960216-0175 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10031 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19960216-0175"^^xsd:string ;
+    db_lab:studentName "Student 176"^^xsd:string ;
+    db_lab:studentProgramme "10031"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19960220-0029 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10061 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19960220-0029"^^xsd:string ;
+    db_lab:studentName "Student 30"^^xsd:string ;
+    db_lab:studentProgramme "10061"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19960221-0168 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10054 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19960221-0168"^^xsd:string ;
+    db_lab:studentName "Student 169"^^xsd:string ;
+    db_lab:studentProgramme "10054"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19960222-0038 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10051 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19960222-0038"^^xsd:string ;
+    db_lab:studentName "Student 39"^^xsd:string ;
+    db_lab:studentProgramme "10051"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19960224-0178 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10074 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19960224-0178"^^xsd:string ;
+    db_lab:studentName "Student 179"^^xsd:string ;
+    db_lab:studentProgramme "10074"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19960227-0093 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10071 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19960227-0093"^^xsd:string ;
+    db_lab:studentName "Student 94"^^xsd:string ;
+    db_lab:studentProgramme "10071"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19960307-0032 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10034 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19960307-0032"^^xsd:string ;
+    db_lab:studentName "Student 33"^^xsd:string ;
+    db_lab:studentProgramme "10034"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19960315-0065 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10073 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19960315-0065"^^xsd:string ;
+    db_lab:studentName "Student 66"^^xsd:string ;
+    db_lab:studentProgramme "10073"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19960328-0002 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10013 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19960328-0002"^^xsd:string ;
+    db_lab:studentName "Student 3"^^xsd:string ;
+    db_lab:studentProgramme "10013"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19960406-0142 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10072 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19960406-0142"^^xsd:string ;
+    db_lab:studentName "Student 143"^^xsd:string ;
+    db_lab:studentProgramme "10072"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19960414-0078 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10033 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19960414-0078"^^xsd:string ;
+    db_lab:studentName "Student 79"^^xsd:string ;
+    db_lab:studentProgramme "10033"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19960523-0164 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10034 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19960523-0164"^^xsd:string ;
+    db_lab:studentName "Student 165"^^xsd:string ;
+    db_lab:studentProgramme "10034"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19960607-0151 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10052 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19960607-0151"^^xsd:string ;
+    db_lab:studentName "Student 152"^^xsd:string ;
+    db_lab:studentProgramme "10052"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19960609-0090 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10014 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19960609-0090"^^xsd:string ;
+    db_lab:studentName "Student 91"^^xsd:string ;
+    db_lab:studentProgramme "10014"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19960610-0035 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10032 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19960610-0035"^^xsd:string ;
+    db_lab:studentName "Student 36"^^xsd:string ;
+    db_lab:studentProgramme "10032"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19960621-0099 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10014 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19960621-0099"^^xsd:string ;
+    db_lab:studentName "Student 100"^^xsd:string ;
+    db_lab:studentProgramme "10014"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19960701-0028 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10021 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19960701-0028"^^xsd:string ;
+    db_lab:studentName "Student 29"^^xsd:string ;
+    db_lab:studentProgramme "10021"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19960704-0098 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10001 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19960704-0098"^^xsd:string ;
+    db_lab:studentName "Student 99"^^xsd:string ;
+    db_lab:studentProgramme "10001"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19960809-0134 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10001 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19960809-0134"^^xsd:string ;
+    db_lab:studentName "Student 135"^^xsd:string ;
+    db_lab:studentProgramme "10001"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19960818-0108 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10054 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19960818-0108"^^xsd:string ;
+    db_lab:studentName "Student 109"^^xsd:string ;
+    db_lab:studentProgramme "10054"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19960822-0033 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10014 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19960822-0033"^^xsd:string ;
+    db_lab:studentName "Student 34"^^xsd:string ;
+    db_lab:studentProgramme "10014"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19960828-0039 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10031 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19960828-0039"^^xsd:string ;
+    db_lab:studentName "Student 40"^^xsd:string ;
+    db_lab:studentProgramme "10031"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19960829-0120 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10054 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19960829-0120"^^xsd:string ;
+    db_lab:studentName "Student 121"^^xsd:string ;
+    db_lab:studentProgramme "10054"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19960901-0160 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10012 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19960901-0160"^^xsd:string ;
+    db_lab:studentName "Student 161"^^xsd:string ;
+    db_lab:studentProgramme "10012"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19960911-0117 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10012 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19960911-0117"^^xsd:string ;
+    db_lab:studentName "Student 118"^^xsd:string ;
+    db_lab:studentProgramme "10012"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19960912-0161 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10014 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19960912-0161"^^xsd:string ;
+    db_lab:studentName "Student 162"^^xsd:string ;
+    db_lab:studentProgramme "10014"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19960924-0067 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10021 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19960924-0067"^^xsd:string ;
+    db_lab:studentName "Student 68"^^xsd:string ;
+    db_lab:studentProgramme "10021"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19960928-0062 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10033 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19960928-0062"^^xsd:string ;
+    db_lab:studentName "Student 63"^^xsd:string ;
+    db_lab:studentProgramme "10033"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19961005-0133 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10031 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19961005-0133"^^xsd:string ;
+    db_lab:studentName "Student 134"^^xsd:string ;
+    db_lab:studentProgramme "10031"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19961009-0180 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10071 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19961009-0180"^^xsd:string ;
+    db_lab:studentName "Student 181"^^xsd:string ;
+    db_lab:studentProgramme "10071"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19961012-0034 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10042 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19961012-0034"^^xsd:string ;
+    db_lab:studentName "Student 35"^^xsd:string ;
+    db_lab:studentProgramme "10042"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19961018-0031 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10041 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19961018-0031"^^xsd:string ;
+    db_lab:studentName "Student 32"^^xsd:string ;
+    db_lab:studentProgramme "10041"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19961023-0076 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10033 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19961023-0076"^^xsd:string ;
+    db_lab:studentName "Student 77"^^xsd:string ;
+    db_lab:studentProgramme "10033"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19961024-0152 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10072 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19961024-0152"^^xsd:string ;
+    db_lab:studentName "Student 153"^^xsd:string ;
+    db_lab:studentProgramme "10072"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19961108-0119 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10041 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19961108-0119"^^xsd:string ;
+    db_lab:studentName "Student 120"^^xsd:string ;
+    db_lab:studentProgramme "10041"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19961117-0113 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10001 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19961117-0113"^^xsd:string ;
+    db_lab:studentName "Student 114"^^xsd:string ;
+    db_lab:studentProgramme "10001"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19961122-0057 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10013 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19961122-0057"^^xsd:string ;
+    db_lab:studentName "Student 58"^^xsd:string ;
+    db_lab:studentProgramme "10013"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19961124-0086 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10032 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19961124-0086"^^xsd:string ;
+    db_lab:studentName "Student 87"^^xsd:string ;
+    db_lab:studentProgramme "10032"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19961220-0045 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10012 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19961220-0045"^^xsd:string ;
+    db_lab:studentName "Student 46"^^xsd:string ;
+    db_lab:studentProgramme "10012"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19961222-0153 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10074 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19961222-0153"^^xsd:string ;
+    db_lab:studentName "Student 154"^^xsd:string ;
+    db_lab:studentProgramme "10074"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19970109-0015 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10021 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19970109-0015"^^xsd:string ;
+    db_lab:studentName "Student 16"^^xsd:string ;
+    db_lab:studentProgramme "10021"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19970112-0116 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10072 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19970112-0116"^^xsd:string ;
+    db_lab:studentName "Student 117"^^xsd:string ;
+    db_lab:studentProgramme "10072"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19970117-0131 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10011 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19970117-0131"^^xsd:string ;
+    db_lab:studentName "Student 132"^^xsd:string ;
+    db_lab:studentProgramme "10011"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19970118-0173 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10014 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19970118-0173"^^xsd:string ;
+    db_lab:studentName "Student 174"^^xsd:string ;
+    db_lab:studentProgramme "10014"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19970121-0197 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10021 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19970121-0197"^^xsd:string ;
+    db_lab:studentName "Student 198"^^xsd:string ;
+    db_lab:studentProgramme "10021"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19970301-0048 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10034 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19970301-0048"^^xsd:string ;
+    db_lab:studentName "Student 49"^^xsd:string ;
+    db_lab:studentProgramme "10034"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19970308-0000 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10054 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19970308-0000"^^xsd:string ;
+    db_lab:studentName "Student 1"^^xsd:string ;
+    db_lab:studentProgramme "10054"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19970309-0064 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10001 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19970309-0064"^^xsd:string ;
+    db_lab:studentName "Student 65"^^xsd:string ;
+    db_lab:studentProgramme "10001"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19970318-0014 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10051 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19970318-0014"^^xsd:string ;
+    db_lab:studentName "Student 15"^^xsd:string ;
+    db_lab:studentProgramme "10051"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19970318-0170 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10031 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19970318-0170"^^xsd:string ;
+    db_lab:studentName "Student 171"^^xsd:string ;
+    db_lab:studentProgramme "10031"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19970404-0169 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10014 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19970404-0169"^^xsd:string ;
+    db_lab:studentName "Student 170"^^xsd:string ;
+    db_lab:studentProgramme "10014"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19970408-0095 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10011 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19970408-0095"^^xsd:string ;
+    db_lab:studentName "Student 96"^^xsd:string ;
+    db_lab:studentProgramme "10011"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19970413-0004 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10052 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19970413-0004"^^xsd:string ;
+    db_lab:studentName "Student 5"^^xsd:string ;
+    db_lab:studentProgramme "10052"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19970416-0196 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10033 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19970416-0196"^^xsd:string ;
+    db_lab:studentName "Student 197"^^xsd:string ;
+    db_lab:studentProgramme "10033"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19970422-0127 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10014 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19970422-0127"^^xsd:string ;
+    db_lab:studentName "Student 128"^^xsd:string ;
+    db_lab:studentProgramme "10014"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19970428-0081 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10054 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19970428-0081"^^xsd:string ;
+    db_lab:studentName "Student 82"^^xsd:string ;
+    db_lab:studentProgramme "10054"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19970510-0158 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10033 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19970510-0158"^^xsd:string ;
+    db_lab:studentName "Student 159"^^xsd:string ;
+    db_lab:studentProgramme "10033"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19970524-0166 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10032 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19970524-0166"^^xsd:string ;
+    db_lab:studentName "Student 167"^^xsd:string ;
+    db_lab:studentProgramme "10032"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19970601-0188 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10041 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19970601-0188"^^xsd:string ;
+    db_lab:studentName "Student 189"^^xsd:string ;
+    db_lab:studentProgramme "10041"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19970609-0026 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10061 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19970609-0026"^^xsd:string ;
+    db_lab:studentName "Student 27"^^xsd:string ;
+    db_lab:studentProgramme "10061"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19970619-0146 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10072 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19970619-0146"^^xsd:string ;
+    db_lab:studentName "Student 147"^^xsd:string ;
+    db_lab:studentProgramme "10072"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19970630-0105 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10041 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19970630-0105"^^xsd:string ;
+    db_lab:studentName "Student 106"^^xsd:string ;
+    db_lab:studentProgramme "10041"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19970711-0059 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10034 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19970711-0059"^^xsd:string ;
+    db_lab:studentName "Student 60"^^xsd:string ;
+    db_lab:studentProgramme "10034"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19970721-0052 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10041 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19970721-0052"^^xsd:string ;
+    db_lab:studentName "Student 53"^^xsd:string ;
+    db_lab:studentProgramme "10041"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19970721-0088 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10061 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19970721-0088"^^xsd:string ;
+    db_lab:studentName "Student 89"^^xsd:string ;
+    db_lab:studentProgramme "10061"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19970727-0012 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10052 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19970727-0012"^^xsd:string ;
+    db_lab:studentName "Student 13"^^xsd:string ;
+    db_lab:studentProgramme "10052"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19970805-0109 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10042 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19970805-0109"^^xsd:string ;
+    db_lab:studentName "Student 110"^^xsd:string ;
+    db_lab:studentProgramme "10042"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19970806-0103 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10032 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19970806-0103"^^xsd:string ;
+    db_lab:studentName "Student 104"^^xsd:string ;
+    db_lab:studentProgramme "10032"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19970820-0083 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10041 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19970820-0083"^^xsd:string ;
+    db_lab:studentName "Student 84"^^xsd:string ;
+    db_lab:studentProgramme "10041"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19970822-0177 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10011 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19970822-0177"^^xsd:string ;
+    db_lab:studentName "Student 178"^^xsd:string ;
+    db_lab:studentProgramme "10011"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19970904-0089 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10011 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19970904-0089"^^xsd:string ;
+    db_lab:studentName "Student 90"^^xsd:string ;
+    db_lab:studentProgramme "10011"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19970907-0186 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10071 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19970907-0186"^^xsd:string ;
+    db_lab:studentName "Student 187"^^xsd:string ;
+    db_lab:studentProgramme "10071"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19970918-0050 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10061 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19970918-0050"^^xsd:string ;
+    db_lab:studentName "Student 51"^^xsd:string ;
+    db_lab:studentProgramme "10061"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19970925-0118 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10013 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19970925-0118"^^xsd:string ;
+    db_lab:studentName "Student 119"^^xsd:string ;
+    db_lab:studentProgramme "10013"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19971007-0018 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10072 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19971007-0018"^^xsd:string ;
+    db_lab:studentName "Student 19"^^xsd:string ;
+    db_lab:studentProgramme "10072"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19971008-0055 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10032 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19971008-0055"^^xsd:string ;
+    db_lab:studentName "Student 56"^^xsd:string ;
+    db_lab:studentProgramme "10032"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19971106-0162 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10042 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19971106-0162"^^xsd:string ;
+    db_lab:studentName "Student 163"^^xsd:string ;
+    db_lab:studentProgramme "10042"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19971113-0144 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10071 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19971113-0144"^^xsd:string ;
+    db_lab:studentName "Student 145"^^xsd:string ;
+    db_lab:studentProgramme "10071"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19971122-0021 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10054 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19971122-0021"^^xsd:string ;
+    db_lab:studentName "Student 22"^^xsd:string ;
+    db_lab:studentProgramme "10054"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19980102-0049 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10014 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19980102-0049"^^xsd:string ;
+    db_lab:studentName "Student 50"^^xsd:string ;
+    db_lab:studentProgramme "10014"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19980203-0100 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10074 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19980203-0100"^^xsd:string ;
+    db_lab:studentName "Student 101"^^xsd:string ;
+    db_lab:studentProgramme "10074"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19980203-0137 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10014 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19980203-0137"^^xsd:string ;
+    db_lab:studentName "Student 138"^^xsd:string ;
+    db_lab:studentProgramme "10014"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19980206-0041 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10012 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19980206-0041"^^xsd:string ;
+    db_lab:studentName "Student 42"^^xsd:string ;
+    db_lab:studentProgramme "10012"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19980212-0024 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10042 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19980212-0024"^^xsd:string ;
+    db_lab:studentName "Student 25"^^xsd:string ;
+    db_lab:studentProgramme "10042"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19980219-0187 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10014 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19980219-0187"^^xsd:string ;
+    db_lab:studentName "Student 188"^^xsd:string ;
+    db_lab:studentProgramme "10014"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19980221-0061 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10054 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19980221-0061"^^xsd:string ;
+    db_lab:studentName "Student 62"^^xsd:string ;
+    db_lab:studentProgramme "10054"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19980329-0155 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10054 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19980329-0155"^^xsd:string ;
+    db_lab:studentName "Student 156"^^xsd:string ;
+    db_lab:studentProgramme "10054"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19980410-0129 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10054 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19980410-0129"^^xsd:string ;
+    db_lab:studentName "Student 130"^^xsd:string ;
+    db_lab:studentProgramme "10054"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19980414-0022 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10073 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19980414-0022"^^xsd:string ;
+    db_lab:studentName "Student 23"^^xsd:string ;
+    db_lab:studentProgramme "10073"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19980418-0082 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10013 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19980418-0082"^^xsd:string ;
+    db_lab:studentName "Student 83"^^xsd:string ;
+    db_lab:studentProgramme "10013"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19980421-0141 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10032 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19980421-0141"^^xsd:string ;
+    db_lab:studentName "Student 142"^^xsd:string ;
+    db_lab:studentProgramme "10032"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19980425-0066 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10054 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19980425-0066"^^xsd:string ;
+    db_lab:studentName "Student 67"^^xsd:string ;
+    db_lab:studentProgramme "10054"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19980524-0056 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10072 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19980524-0056"^^xsd:string ;
+    db_lab:studentName "Student 57"^^xsd:string ;
+    db_lab:studentProgramme "10072"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19980609-0023 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10042 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19980609-0023"^^xsd:string ;
+    db_lab:studentName "Student 24"^^xsd:string ;
+    db_lab:studentProgramme "10042"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19980617-0130 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10033 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19980617-0130"^^xsd:string ;
+    db_lab:studentName "Student 131"^^xsd:string ;
+    db_lab:studentProgramme "10033"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19980617-0190 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10072 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19980617-0190"^^xsd:string ;
+    db_lab:studentName "Student 191"^^xsd:string ;
+    db_lab:studentProgramme "10072"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19980628-0184 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10041 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19980628-0184"^^xsd:string ;
+    db_lab:studentName "Student 185"^^xsd:string ;
+    db_lab:studentProgramme "10041"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19980709-0157 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10021 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19980709-0157"^^xsd:string ;
+    db_lab:studentName "Student 158"^^xsd:string ;
+    db_lab:studentProgramme "10021"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19980712-0165 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10012 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19980712-0165"^^xsd:string ;
+    db_lab:studentName "Student 166"^^xsd:string ;
+    db_lab:studentProgramme "10012"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19980719-0069 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10061 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19980719-0069"^^xsd:string ;
+    db_lab:studentName "Student 70"^^xsd:string ;
+    db_lab:studentProgramme "10061"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19980720-0138 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10042 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19980720-0138"^^xsd:string ;
+    db_lab:studentName "Student 139"^^xsd:string ;
+    db_lab:studentProgramme "10042"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19980804-0149 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10041 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19980804-0149"^^xsd:string ;
+    db_lab:studentName "Student 150"^^xsd:string ;
+    db_lab:studentProgramme "10041"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19980805-0087 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10071 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19980805-0087"^^xsd:string ;
+    db_lab:studentName "Student 88"^^xsd:string ;
+    db_lab:studentProgramme "10071"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19980824-0195 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10011 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19980824-0195"^^xsd:string ;
+    db_lab:studentName "Student 196"^^xsd:string ;
+    db_lab:studentProgramme "10011"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19980905-0003 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10012 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19980905-0003"^^xsd:string ;
+    db_lab:studentName "Student 4"^^xsd:string ;
+    db_lab:studentProgramme "10012"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19980906-0194 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10041 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19980906-0194"^^xsd:string ;
+    db_lab:studentName "Student 195"^^xsd:string ;
+    db_lab:studentProgramme "10041"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19980920-0147 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10013 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19980920-0147"^^xsd:string ;
+    db_lab:studentName "Student 148"^^xsd:string ;
+    db_lab:studentProgramme "10013"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19980925-0092 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10074 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19980925-0092"^^xsd:string ;
+    db_lab:studentName "Student 93"^^xsd:string ;
+    db_lab:studentProgramme "10074"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19980926-0182 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10041 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19980926-0182"^^xsd:string ;
+    db_lab:studentName "Student 183"^^xsd:string ;
+    db_lab:studentProgramme "10041"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19980928-0145 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10071 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19980928-0145"^^xsd:string ;
+    db_lab:studentName "Student 146"^^xsd:string ;
+    db_lab:studentProgramme "10071"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19980928-0189 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10013 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19980928-0189"^^xsd:string ;
+    db_lab:studentName "Student 190"^^xsd:string ;
+    db_lab:studentProgramme "10013"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19981018-0198 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10042 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19981018-0198"^^xsd:string ;
+    db_lab:studentName "Student 199"^^xsd:string ;
+    db_lab:studentProgramme "10042"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19981023-0043 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10041 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19981023-0043"^^xsd:string ;
+    db_lab:studentName "Student 44"^^xsd:string ;
+    db_lab:studentProgramme "10041"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19981204-0077 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10001 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19981204-0077"^^xsd:string ;
+    db_lab:studentName "Student 78"^^xsd:string ;
+    db_lab:studentProgramme "10001"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19981214-0051 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10072 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19981214-0051"^^xsd:string ;
+    db_lab:studentName "Student 52"^^xsd:string ;
+    db_lab:studentProgramme "10072"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19981221-0114 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10013 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19981221-0114"^^xsd:string ;
+    db_lab:studentName "Student 115"^^xsd:string ;
+    db_lab:studentProgramme "10013"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19981226-0107 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10032 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19981226-0107"^^xsd:string ;
+    db_lab:studentName "Student 108"^^xsd:string ;
+    db_lab:studentProgramme "10032"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19990116-0156 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10074 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19990116-0156"^^xsd:string ;
+    db_lab:studentName "Student 157"^^xsd:string ;
+    db_lab:studentProgramme "10074"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19990124-0019 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10041 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19990124-0019"^^xsd:string ;
+    db_lab:studentName "Student 20"^^xsd:string ;
+    db_lab:studentProgramme "10041"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19990211-0030 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10051 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19990211-0030"^^xsd:string ;
+    db_lab:studentName "Student 31"^^xsd:string ;
+    db_lab:studentProgramme "10051"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19990219-0013 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10012 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19990219-0013"^^xsd:string ;
+    db_lab:studentName "Student 14"^^xsd:string ;
+    db_lab:studentProgramme "10012"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19990226-0154 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10052 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19990226-0154"^^xsd:string ;
+    db_lab:studentName "Student 155"^^xsd:string ;
+    db_lab:studentProgramme "10052"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19990301-0071 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10042 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19990301-0071"^^xsd:string ;
+    db_lab:studentName "Student 72"^^xsd:string ;
+    db_lab:studentProgramme "10042"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19990302-0036 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10061 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19990302-0036"^^xsd:string ;
+    db_lab:studentName "Student 37"^^xsd:string ;
+    db_lab:studentProgramme "10061"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19990305-0011 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10041 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19990305-0011"^^xsd:string ;
+    db_lab:studentName "Student 12"^^xsd:string ;
+    db_lab:studentProgramme "10041"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19990307-0167 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10032 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19990307-0167"^^xsd:string ;
+    db_lab:studentName "Student 168"^^xsd:string ;
+    db_lab:studentProgramme "10032"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19990313-0072 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10051 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19990313-0072"^^xsd:string ;
+    db_lab:studentName "Student 73"^^xsd:string ;
+    db_lab:studentProgramme "10051"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19990317-0121 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10033 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19990317-0121"^^xsd:string ;
+    db_lab:studentName "Student 122"^^xsd:string ;
+    db_lab:studentProgramme "10033"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19990323-0199 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10012 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19990323-0199"^^xsd:string ;
+    db_lab:studentName "Student 200"^^xsd:string ;
+    db_lab:studentProgramme "10012"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19990405-0126 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10054 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19990405-0126"^^xsd:string ;
+    db_lab:studentName "Student 127"^^xsd:string ;
+    db_lab:studentProgramme "10054"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19990427-0096 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10033 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19990427-0096"^^xsd:string ;
+    db_lab:studentName "Student 97"^^xsd:string ;
+    db_lab:studentProgramme "10033"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19990518-0097 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10074 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19990518-0097"^^xsd:string ;
+    db_lab:studentName "Student 98"^^xsd:string ;
+    db_lab:studentProgramme "10074"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19990518-0163 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10061 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19990518-0163"^^xsd:string ;
+    db_lab:studentName "Student 164"^^xsd:string ;
+    db_lab:studentProgramme "10061"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19990521-0122 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10073 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19990521-0122"^^xsd:string ;
+    db_lab:studentName "Student 123"^^xsd:string ;
+    db_lab:studentProgramme "10073"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19990530-0112 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10073 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19990530-0112"^^xsd:string ;
+    db_lab:studentName "Student 113"^^xsd:string ;
+    db_lab:studentProgramme "10073"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19990531-0094 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10054 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19990531-0094"^^xsd:string ;
+    db_lab:studentName "Student 95"^^xsd:string ;
+    db_lab:studentProgramme "10054"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19990624-0192 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10052 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19990624-0192"^^xsd:string ;
+    db_lab:studentName "Student 193"^^xsd:string ;
+    db_lab:studentProgramme "10052"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19990626-0006 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10074 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19990626-0006"^^xsd:string ;
+    db_lab:studentName "Student 7"^^xsd:string ;
+    db_lab:studentProgramme "10074"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19990626-0136 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10074 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19990626-0136"^^xsd:string ;
+    db_lab:studentName "Student 137"^^xsd:string ;
+    db_lab:studentProgramme "10074"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19990702-0073 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10041 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19990702-0073"^^xsd:string ;
+    db_lab:studentName "Student 74"^^xsd:string ;
+    db_lab:studentProgramme "10041"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19990705-0017 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10053 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19990705-0017"^^xsd:string ;
+    db_lab:studentName "Student 18"^^xsd:string ;
+    db_lab:studentProgramme "10053"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19990708-0174 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10072 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19990708-0174"^^xsd:string ;
+    db_lab:studentName "Student 175"^^xsd:string ;
+    db_lab:studentProgramme "10072"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19990709-0191 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10041 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19990709-0191"^^xsd:string ;
+    db_lab:studentName "Student 192"^^xsd:string ;
+    db_lab:studentProgramme "10041"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19990711-0075 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10012 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19990711-0075"^^xsd:string ;
+    db_lab:studentName "Student 76"^^xsd:string ;
+    db_lab:studentProgramme "10012"^^xsd:string ;
+    db_lab:studentYear "2020"^^xsd:string .
+
+db_lab:student_19990713-0135 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10012 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19990713-0135"^^xsd:string ;
+    db_lab:studentName "Student 136"^^xsd:string ;
+    db_lab:studentProgramme "10012"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19990720-0054 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10033 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19990720-0054"^^xsd:string ;
+    db_lab:studentName "Student 55"^^xsd:string ;
+    db_lab:studentProgramme "10033"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19990805-0025 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10051 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19990805-0025"^^xsd:string ;
+    db_lab:studentName "Student 26"^^xsd:string ;
+    db_lab:studentProgramme "10051"^^xsd:string ;
+    db_lab:studentYear "2017"^^xsd:string .
+
+db_lab:student_19990816-0005 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10021 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19990816-0005"^^xsd:string ;
+    db_lab:studentName "Student 6"^^xsd:string ;
+    db_lab:studentProgramme "10021"^^xsd:string ;
+    db_lab:studentYear "2021"^^xsd:string .
+
+db_lab:student_19990824-0047 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10071 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19990824-0047"^^xsd:string ;
+    db_lab:studentName "Student 48"^^xsd:string ;
+    db_lab:studentProgramme "10071"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19990831-0020 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10061 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19990831-0020"^^xsd:string ;
+    db_lab:studentName "Student 21"^^xsd:string ;
+    db_lab:studentProgramme "10061"^^xsd:string ;
+    db_lab:studentYear "2016"^^xsd:string .
+
+db_lab:student_19990918-0091 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10073 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19990918-0091"^^xsd:string ;
+    db_lab:studentName "Student 92"^^xsd:string ;
+    db_lab:studentProgramme "10073"^^xsd:string ;
+    db_lab:studentYear "2019"^^xsd:string .
+
+db_lab:student_19991025-0008 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10033 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19991025-0008"^^xsd:string ;
+    db_lab:studentName "Student 9"^^xsd:string ;
+    db_lab:studentProgramme "10033"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+
+db_lab:student_19991130-0042 a db_lab:Students ;
+    db_lab:enrolledIn db_lab:Programme_10074 ;
+    db_lab:graduated false ;
+    db_lab:studentId "19991130-0042"^^xsd:string ;
+    db_lab:studentName "Student 43"^^xsd:string ;
+    db_lab:studentProgramme "10074"^^xsd:string ;
+    db_lab:studentYear "2018"^^xsd:string .
+

@@ -1,0 +1,183 @@
+@prefix db_lab: <http://www.semanticweb.org/jane/ontologies/2025/4/chalmers-dat475-Assignment#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+db_lab:teacher_19560612-0010 a db_lab:Senior_Teachers ;
+    db_lab:teacherDept "D3"^^xsd:string ;
+    db_lab:teacherDivison "D3-2"^^xsd:string ;
+    db_lab:teacherId "19560612-0010"^^xsd:string ;
+    db_lab:teacherName "Teacher 10"^^xsd:string .
+
+db_lab:teacher_19560705-0025 a db_lab:Senior_Teachers ;
+    db_lab:teacherDept "D7"^^xsd:string ;
+    db_lab:teacherDivison "D7-4"^^xsd:string ;
+    db_lab:teacherId "19560705-0025"^^xsd:string ;
+    db_lab:teacherName "Teacher 25"^^xsd:string .
+
+db_lab:teacher_19560812-0016 a db_lab:Senior_Teachers ;
+    db_lab:teacherDept "D3"^^xsd:string ;
+    db_lab:teacherDivison "D3-1"^^xsd:string ;
+    db_lab:teacherId "19560812-0016"^^xsd:string ;
+    db_lab:teacherName "Teacher 16"^^xsd:string .
+
+db_lab:teacher_19561222-0030 a db_lab:Senior_Teachers ;
+    db_lab:teacherDept "D2"^^xsd:string ;
+    db_lab:teacherDivison "D2-2"^^xsd:string ;
+    db_lab:teacherId "19561222-0030"^^xsd:string ;
+    db_lab:teacherName "Teacher 30"^^xsd:string .
+
+db_lab:teacher_19570615-0011 a db_lab:Senior_Teachers ;
+    db_lab:teacherDept "D5"^^xsd:string ;
+    db_lab:teacherDivison "D5-3"^^xsd:string ;
+    db_lab:teacherId "19570615-0011"^^xsd:string ;
+    db_lab:teacherName "Teacher 11"^^xsd:string .
+
+db_lab:teacher_19570826-0012 a db_lab:Senior_Teachers ;
+    db_lab:teacherDept "D7"^^xsd:string ;
+    db_lab:teacherDivison "D7-5"^^xsd:string ;
+    db_lab:teacherId "19570826-0012"^^xsd:string ;
+    db_lab:teacherName "Teacher 12"^^xsd:string .
+
+db_lab:teacher_19570828-0008 a db_lab:Senior_Teachers ;
+    db_lab:teacherDept "D4"^^xsd:string ;
+    db_lab:teacherDivison "D4-0"^^xsd:string ;
+    db_lab:teacherId "19570828-0008"^^xsd:string ;
+    db_lab:teacherName "Teacher 8"^^xsd:string .
+
+db_lab:teacher_19580218-0007 a db_lab:Senior_Teachers ;
+    db_lab:teacherDept "D4"^^xsd:string ;
+    db_lab:teacherDivison "D4-1"^^xsd:string ;
+    db_lab:teacherId "19580218-0007"^^xsd:string ;
+    db_lab:teacherName "Teacher 7"^^xsd:string .
+
+db_lab:teacher_19580515-0017 a db_lab:Senior_Teachers ;
+    db_lab:teacherDept "D6"^^xsd:string ;
+    db_lab:teacherDivison "D6-3"^^xsd:string ;
+    db_lab:teacherId "19580515-0017"^^xsd:string ;
+    db_lab:teacherName "Teacher 17"^^xsd:string .
+
+db_lab:teacher_19590129-0004 a db_lab:Senior_Teachers ;
+    db_lab:teacherDept "D3"^^xsd:string ;
+    db_lab:teacherDivison "D3-3"^^xsd:string ;
+    db_lab:teacherId "19590129-0004"^^xsd:string ;
+    db_lab:teacherName "Teacher 4"^^xsd:string .
+
+db_lab:teacher_19600529-0021 a db_lab:Senior_Teachers ;
+    db_lab:teacherDept "D3"^^xsd:string ;
+    db_lab:teacherDivison "D3-5"^^xsd:string ;
+    db_lab:teacherId "19600529-0021"^^xsd:string ;
+    db_lab:teacherName "Teacher 21"^^xsd:string .
+
+db_lab:teacher_19600814-0002 a db_lab:Senior_Teachers ;
+    db_lab:teacherDept "D7"^^xsd:string ;
+    db_lab:teacherDivison "D7-4"^^xsd:string ;
+    db_lab:teacherId "19600814-0002"^^xsd:string ;
+    db_lab:teacherName "Teacher 2"^^xsd:string .
+
+db_lab:teacher_19600905-0003 a db_lab:Senior_Teachers ;
+    db_lab:teacherDept "D7"^^xsd:string ;
+    db_lab:teacherDivison "D7-1"^^xsd:string ;
+    db_lab:teacherId "19600905-0003"^^xsd:string ;
+    db_lab:teacherName "Teacher 3"^^xsd:string .
+
+db_lab:teacher_19601021-0018 a db_lab:Senior_Teachers ;
+    db_lab:teacherDept "D1"^^xsd:string ;
+    db_lab:teacherDivison "D1-3"^^xsd:string ;
+    db_lab:teacherId "19601021-0018"^^xsd:string ;
+    db_lab:teacherName "Teacher 18"^^xsd:string .
+
+db_lab:teacher_19610620-0006 a db_lab:Senior_Teachers ;
+    db_lab:teacherDept "D5"^^xsd:string ;
+    db_lab:teacherDivison "D5-0"^^xsd:string ;
+    db_lab:teacherId "19610620-0006"^^xsd:string ;
+    db_lab:teacherName "Teacher 6"^^xsd:string .
+
+db_lab:teacher_19610623-0005 a db_lab:Senior_Teachers ;
+    db_lab:teacherDept "D5"^^xsd:string ;
+    db_lab:teacherDivison "D5-2"^^xsd:string ;
+    db_lab:teacherId "19610623-0005"^^xsd:string ;
+    db_lab:teacherName "Teacher 5"^^xsd:string .
+
+db_lab:teacher_19610918-0027 a db_lab:Senior_Teachers ;
+    db_lab:teacherDept "D4"^^xsd:string ;
+    db_lab:teacherDivison "D4-3"^^xsd:string ;
+    db_lab:teacherId "19610918-0027"^^xsd:string ;
+    db_lab:teacherName "Teacher 27"^^xsd:string .
+
+db_lab:teacher_19611219-0014 a db_lab:Senior_Teachers ;
+    db_lab:teacherDept "D6"^^xsd:string ;
+    db_lab:teacherDivison "D6-3"^^xsd:string ;
+    db_lab:teacherId "19611219-0014"^^xsd:string ;
+    db_lab:teacherName "Teacher 14"^^xsd:string .
+
+db_lab:teacher_19620424-0026 a db_lab:Senior_Teachers ;
+    db_lab:teacherDept "D7"^^xsd:string ;
+    db_lab:teacherDivison "D7-1"^^xsd:string ;
+    db_lab:teacherId "19620424-0026"^^xsd:string ;
+    db_lab:teacherName "Teacher 26"^^xsd:string .
+
+db_lab:teacher_19620522-0023 a db_lab:Senior_Teachers ;
+    db_lab:teacherDept "D2"^^xsd:string ;
+    db_lab:teacherDivison "D2-2"^^xsd:string ;
+    db_lab:teacherId "19620522-0023"^^xsd:string ;
+    db_lab:teacherName "Teacher 23"^^xsd:string .
+
+db_lab:teacher_19620831-0024 a db_lab:Senior_Teachers ;
+    db_lab:teacherDept "D6"^^xsd:string ;
+    db_lab:teacherDivison "D6-0"^^xsd:string ;
+    db_lab:teacherId "19620831-0024"^^xsd:string ;
+    db_lab:teacherName "Teacher 24"^^xsd:string .
+
+db_lab:teacher_19630126-0001 a db_lab:Senior_Teachers ;
+    db_lab:teacherDept "D4"^^xsd:string ;
+    db_lab:teacherDivison "D4-3"^^xsd:string ;
+    db_lab:teacherId "19630126-0001"^^xsd:string ;
+    db_lab:teacherName "Teacher 1"^^xsd:string .
+
+db_lab:teacher_19640220-0029 a db_lab:Senior_Teachers ;
+    db_lab:teacherDept "D6"^^xsd:string ;
+    db_lab:teacherDivison "D6-5"^^xsd:string ;
+    db_lab:teacherId "19640220-0029"^^xsd:string ;
+    db_lab:teacherName "Teacher 29"^^xsd:string .
+
+db_lab:teacher_19640414-0013 a db_lab:Senior_Teachers ;
+    db_lab:teacherDept "D4"^^xsd:string ;
+    db_lab:teacherDivison "D4-1"^^xsd:string ;
+    db_lab:teacherId "19640414-0013"^^xsd:string ;
+    db_lab:teacherName "Teacher 13"^^xsd:string .
+
+db_lab:teacher_19650303-0019 a db_lab:Senior_Teachers ;
+    db_lab:teacherDept "D6"^^xsd:string ;
+    db_lab:teacherDivison "D6-4"^^xsd:string ;
+    db_lab:teacherId "19650303-0019"^^xsd:string ;
+    db_lab:teacherName "Teacher 19"^^xsd:string .
+
+db_lab:teacher_19660630-0020 a db_lab:Senior_Teachers ;
+    db_lab:teacherDept "D7"^^xsd:string ;
+    db_lab:teacherDivison "D7-5"^^xsd:string ;
+    db_lab:teacherId "19660630-0020"^^xsd:string ;
+    db_lab:teacherName "Teacher 20"^^xsd:string .
+
+db_lab:teacher_19680712-0028 a db_lab:Senior_Teachers ;
+    db_lab:teacherDept "D6"^^xsd:string ;
+    db_lab:teacherDivison "D6-0"^^xsd:string ;
+    db_lab:teacherId "19680712-0028"^^xsd:string ;
+    db_lab:teacherName "Teacher 28"^^xsd:string .
+
+db_lab:teacher_19690408-0009 a db_lab:Senior_Teachers ;
+    db_lab:teacherDept "D3"^^xsd:string ;
+    db_lab:teacherDivison "D3-5"^^xsd:string ;
+    db_lab:teacherId "19690408-0009"^^xsd:string ;
+    db_lab:teacherName "Teacher 9"^^xsd:string .
+
+db_lab:teacher_19690513-0015 a db_lab:Senior_Teachers ;
+    db_lab:teacherDept "D7"^^xsd:string ;
+    db_lab:teacherDivison "D7-5"^^xsd:string ;
+    db_lab:teacherId "19690513-0015"^^xsd:string ;
+    db_lab:teacherName "Teacher 15"^^xsd:string .
+
+db_lab:teacher_19690917-0022 a db_lab:Senior_Teachers ;
+    db_lab:teacherDept "D1"^^xsd:string ;
+    db_lab:teacherDivison "D1-3"^^xsd:string ;
+    db_lab:teacherId "19690917-0022"^^xsd:string ;
+    db_lab:teacherName "Teacher 22"^^xsd:string .
+

@@ -1,0 +1,2703 @@
+@prefix db_lab: <http://www.semanticweb.org/jane/ontologies/2025/4/chalmers-dat475-Assignment#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+db_lab:course_1001 a db_lab:Courses ;
+    db_lab:courseCode "1001"^^xsd:string ;
+    db_lab:courseDept "D4"^^xsd:string ;
+    db_lab:courseDivision "D4-5"^^xsd:string ;
+    db_lab:courseName "C-1"^^xsd:string ;
+    db_lab:courseOwnedBy "P-32"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1002 a db_lab:Courses ;
+    db_lab:courseCode "1002"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-5"^^xsd:string ;
+    db_lab:courseName "C-2"^^xsd:string ;
+    db_lab:courseOwnedBy "P-51"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1003 a db_lab:Courses ;
+    db_lab:courseCode "1003"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-3"^^xsd:string ;
+    db_lab:courseName "C-3"^^xsd:string ;
+    db_lab:courseOwnedBy "P-41"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1004 a db_lab:Courses ;
+    db_lab:courseCode "1004"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-2"^^xsd:string ;
+    db_lab:courseName "C-4"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1005 a db_lab:Courses ;
+    db_lab:courseCode "1005"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-2"^^xsd:string ;
+    db_lab:courseName "C-5"^^xsd:string ;
+    db_lab:courseOwnedBy "P-52"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1006 a db_lab:Courses ;
+    db_lab:courseCode "1006"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-3"^^xsd:string ;
+    db_lab:courseName "C-6"^^xsd:string ;
+    db_lab:courseOwnedBy "P-73"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1007 a db_lab:Courses ;
+    db_lab:courseCode "1007"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-1"^^xsd:string ;
+    db_lab:courseName "C-7"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1008 a db_lab:Courses ;
+    db_lab:courseCode "1008"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-3"^^xsd:string ;
+    db_lab:courseName "C-8"^^xsd:string ;
+    db_lab:courseOwnedBy "P-41"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1009 a db_lab:Courses ;
+    db_lab:courseCode "1009"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-1"^^xsd:string ;
+    db_lab:courseName "C-9"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1010 a db_lab:Courses ;
+    db_lab:courseCode "1010"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-5"^^xsd:string ;
+    db_lab:courseName "C-10"^^xsd:string ;
+    db_lab:courseOwnedBy "P-42"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1011 a db_lab:Courses ;
+    db_lab:courseCode "1011"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-3"^^xsd:string ;
+    db_lab:courseName "C-11"^^xsd:string ;
+    db_lab:courseOwnedBy "P-13"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1012 a db_lab:Courses ;
+    db_lab:courseCode "1012"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-2"^^xsd:string ;
+    db_lab:courseName "C-12"^^xsd:string ;
+    db_lab:courseOwnedBy "P-41"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1013 a db_lab:Courses ;
+    db_lab:courseCode "1013"^^xsd:string ;
+    db_lab:courseDept "D3"^^xsd:string ;
+    db_lab:courseDivision "D3-3"^^xsd:string ;
+    db_lab:courseName "C-13"^^xsd:string ;
+    db_lab:courseOwnedBy "P-21"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1014 a db_lab:Courses ;
+    db_lab:courseCode "1014"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-5"^^xsd:string ;
+    db_lab:courseName "C-14"^^xsd:string ;
+    db_lab:courseOwnedBy "P-71"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1015 a db_lab:Courses ;
+    db_lab:courseCode "1015"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-5"^^xsd:string ;
+    db_lab:courseName "C-15"^^xsd:string ;
+    db_lab:courseOwnedBy "P-41"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1016 a db_lab:Courses ;
+    db_lab:courseCode "1016"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-2"^^xsd:string ;
+    db_lab:courseName "C-16"^^xsd:string ;
+    db_lab:courseOwnedBy "P-11"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1017 a db_lab:Courses ;
+    db_lab:courseCode "1017"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-1"^^xsd:string ;
+    db_lab:courseName "C-17"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1018 a db_lab:Courses ;
+    db_lab:courseCode "1018"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-2"^^xsd:string ;
+    db_lab:courseName "C-18"^^xsd:string ;
+    db_lab:courseOwnedBy "P-13"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1019 a db_lab:Courses ;
+    db_lab:courseCode "1019"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-2"^^xsd:string ;
+    db_lab:courseName "C-19"^^xsd:string ;
+    db_lab:courseOwnedBy "P-72"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1020 a db_lab:Courses ;
+    db_lab:courseCode "1020"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-0"^^xsd:string ;
+    db_lab:courseName "C-20"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1021 a db_lab:Courses ;
+    db_lab:courseCode "1021"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-5"^^xsd:string ;
+    db_lab:courseName "C-21"^^xsd:string ;
+    db_lab:courseOwnedBy "P-72"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1022 a db_lab:Courses ;
+    db_lab:courseCode "1022"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-2"^^xsd:string ;
+    db_lab:courseName "C-22"^^xsd:string ;
+    db_lab:courseOwnedBy "P-42"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1023 a db_lab:Courses ;
+    db_lab:courseCode "1023"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-3"^^xsd:string ;
+    db_lab:courseName "C-23"^^xsd:string ;
+    db_lab:courseOwnedBy "P-71"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1024 a db_lab:Courses ;
+    db_lab:courseCode "1024"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-1"^^xsd:string ;
+    db_lab:courseName "C-24"^^xsd:string ;
+    db_lab:courseOwnedBy "P-13"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1025 a db_lab:Courses ;
+    db_lab:courseCode "1025"^^xsd:string ;
+    db_lab:courseDept "D1"^^xsd:string ;
+    db_lab:courseDivision "D1-0"^^xsd:string ;
+    db_lab:courseName "C-25"^^xsd:string ;
+    db_lab:courseOwnedBy "P-01"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1026 a db_lab:Courses ;
+    db_lab:courseCode "1026"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-5"^^xsd:string ;
+    db_lab:courseName "C-26"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1027 a db_lab:Courses ;
+    db_lab:courseCode "1027"^^xsd:string ;
+    db_lab:courseDept "D1"^^xsd:string ;
+    db_lab:courseDivision "D1-5"^^xsd:string ;
+    db_lab:courseName "C-27"^^xsd:string ;
+    db_lab:courseOwnedBy "P-01"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1028 a db_lab:Courses ;
+    db_lab:courseCode "1028"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-2"^^xsd:string ;
+    db_lab:courseName "C-28"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1029 a db_lab:Courses ;
+    db_lab:courseCode "1029"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-3"^^xsd:string ;
+    db_lab:courseName "C-29"^^xsd:string ;
+    db_lab:courseOwnedBy "P-72"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1030 a db_lab:Courses ;
+    db_lab:courseCode "1030"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-5"^^xsd:string ;
+    db_lab:courseName "C-30"^^xsd:string ;
+    db_lab:courseOwnedBy "P-42"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1031 a db_lab:Courses ;
+    db_lab:courseCode "1031"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-4"^^xsd:string ;
+    db_lab:courseName "C-31"^^xsd:string ;
+    db_lab:courseOwnedBy "P-42"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1032 a db_lab:Courses ;
+    db_lab:courseCode "1032"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-0"^^xsd:string ;
+    db_lab:courseName "C-32"^^xsd:string ;
+    db_lab:courseOwnedBy "P-52"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1033 a db_lab:Courses ;
+    db_lab:courseCode "1033"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-0"^^xsd:string ;
+    db_lab:courseName "C-33"^^xsd:string ;
+    db_lab:courseOwnedBy "P-42"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1034 a db_lab:Courses ;
+    db_lab:courseCode "1034"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-2"^^xsd:string ;
+    db_lab:courseName "C-34"^^xsd:string ;
+    db_lab:courseOwnedBy "P-14"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1035 a db_lab:Courses ;
+    db_lab:courseCode "1035"^^xsd:string ;
+    db_lab:courseDept "D4"^^xsd:string ;
+    db_lab:courseDivision "D4-4"^^xsd:string ;
+    db_lab:courseName "C-35"^^xsd:string ;
+    db_lab:courseOwnedBy "P-33"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1036 a db_lab:Courses ;
+    db_lab:courseCode "1036"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-2"^^xsd:string ;
+    db_lab:courseName "C-36"^^xsd:string ;
+    db_lab:courseOwnedBy "P-73"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1037 a db_lab:Courses ;
+    db_lab:courseCode "1037"^^xsd:string ;
+    db_lab:courseDept "D3"^^xsd:string ;
+    db_lab:courseDivision "D3-2"^^xsd:string ;
+    db_lab:courseName "C-37"^^xsd:string ;
+    db_lab:courseOwnedBy "P-21"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1038 a db_lab:Courses ;
+    db_lab:courseCode "1038"^^xsd:string ;
+    db_lab:courseDept "D3"^^xsd:string ;
+    db_lab:courseDivision "D3-4"^^xsd:string ;
+    db_lab:courseName "C-38"^^xsd:string ;
+    db_lab:courseOwnedBy "P-21"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1039 a db_lab:Courses ;
+    db_lab:courseCode "1039"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-5"^^xsd:string ;
+    db_lab:courseName "C-39"^^xsd:string ;
+    db_lab:courseOwnedBy "P-74"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1040 a db_lab:Courses ;
+    db_lab:courseCode "1040"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-1"^^xsd:string ;
+    db_lab:courseName "C-40"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1041 a db_lab:Courses ;
+    db_lab:courseCode "1041"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-1"^^xsd:string ;
+    db_lab:courseName "C-41"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1042 a db_lab:Courses ;
+    db_lab:courseCode "1042"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-0"^^xsd:string ;
+    db_lab:courseName "C-42"^^xsd:string ;
+    db_lab:courseOwnedBy "P-42"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1043 a db_lab:Courses ;
+    db_lab:courseCode "1043"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-2"^^xsd:string ;
+    db_lab:courseName "C-43"^^xsd:string ;
+    db_lab:courseOwnedBy "P-72"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1044 a db_lab:Courses ;
+    db_lab:courseCode "1044"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-5"^^xsd:string ;
+    db_lab:courseName "C-44"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1045 a db_lab:Courses ;
+    db_lab:courseCode "1045"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-5"^^xsd:string ;
+    db_lab:courseName "C-45"^^xsd:string ;
+    db_lab:courseOwnedBy "P-13"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1046 a db_lab:Courses ;
+    db_lab:courseCode "1046"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-4"^^xsd:string ;
+    db_lab:courseName "C-46"^^xsd:string ;
+    db_lab:courseOwnedBy "P-41"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1047 a db_lab:Courses ;
+    db_lab:courseCode "1047"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-2"^^xsd:string ;
+    db_lab:courseName "C-47"^^xsd:string ;
+    db_lab:courseOwnedBy "P-12"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1048 a db_lab:Courses ;
+    db_lab:courseCode "1048"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-5"^^xsd:string ;
+    db_lab:courseName "C-48"^^xsd:string ;
+    db_lab:courseOwnedBy "P-54"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1049 a db_lab:Courses ;
+    db_lab:courseCode "1049"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-2"^^xsd:string ;
+    db_lab:courseName "C-49"^^xsd:string ;
+    db_lab:courseOwnedBy "P-41"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1050 a db_lab:Courses ;
+    db_lab:courseCode "1050"^^xsd:string ;
+    db_lab:courseDept "D1"^^xsd:string ;
+    db_lab:courseDivision "D1-1"^^xsd:string ;
+    db_lab:courseName "C-50"^^xsd:string ;
+    db_lab:courseOwnedBy "P-01"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1051 a db_lab:Courses ;
+    db_lab:courseCode "1051"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-0"^^xsd:string ;
+    db_lab:courseName "C-51"^^xsd:string ;
+    db_lab:courseOwnedBy "P-14"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1052 a db_lab:Courses ;
+    db_lab:courseCode "1052"^^xsd:string ;
+    db_lab:courseDept "D1"^^xsd:string ;
+    db_lab:courseDivision "D1-0"^^xsd:string ;
+    db_lab:courseName "C-52"^^xsd:string ;
+    db_lab:courseOwnedBy "P-01"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1053 a db_lab:Courses ;
+    db_lab:courseCode "1053"^^xsd:string ;
+    db_lab:courseDept "D4"^^xsd:string ;
+    db_lab:courseDivision "D4-1"^^xsd:string ;
+    db_lab:courseName "C-53"^^xsd:string ;
+    db_lab:courseOwnedBy "P-33"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1054 a db_lab:Courses ;
+    db_lab:courseCode "1054"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-1"^^xsd:string ;
+    db_lab:courseName "C-54"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1055 a db_lab:Courses ;
+    db_lab:courseCode "1055"^^xsd:string ;
+    db_lab:courseDept "D1"^^xsd:string ;
+    db_lab:courseDivision "D1-0"^^xsd:string ;
+    db_lab:courseName "C-55"^^xsd:string ;
+    db_lab:courseOwnedBy "P-01"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1056 a db_lab:Courses ;
+    db_lab:courseCode "1056"^^xsd:string ;
+    db_lab:courseDept "D1"^^xsd:string ;
+    db_lab:courseDivision "D1-1"^^xsd:string ;
+    db_lab:courseName "C-56"^^xsd:string ;
+    db_lab:courseOwnedBy "P-01"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1057 a db_lab:Courses ;
+    db_lab:courseCode "1057"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-2"^^xsd:string ;
+    db_lab:courseName "C-57"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1058 a db_lab:Courses ;
+    db_lab:courseCode "1058"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-3"^^xsd:string ;
+    db_lab:courseName "C-58"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1059 a db_lab:Courses ;
+    db_lab:courseCode "1059"^^xsd:string ;
+    db_lab:courseDept "D3"^^xsd:string ;
+    db_lab:courseDivision "D3-4"^^xsd:string ;
+    db_lab:courseName "C-59"^^xsd:string ;
+    db_lab:courseOwnedBy "P-21"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1060 a db_lab:Courses ;
+    db_lab:courseCode "1060"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-1"^^xsd:string ;
+    db_lab:courseName "C-60"^^xsd:string ;
+    db_lab:courseOwnedBy "P-41"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1061 a db_lab:Courses ;
+    db_lab:courseCode "1061"^^xsd:string ;
+    db_lab:courseDept "D3"^^xsd:string ;
+    db_lab:courseDivision "D3-4"^^xsd:string ;
+    db_lab:courseName "C-61"^^xsd:string ;
+    db_lab:courseOwnedBy "P-21"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1062 a db_lab:Courses ;
+    db_lab:courseCode "1062"^^xsd:string ;
+    db_lab:courseDept "D1"^^xsd:string ;
+    db_lab:courseDivision "D1-1"^^xsd:string ;
+    db_lab:courseName "C-62"^^xsd:string ;
+    db_lab:courseOwnedBy "P-01"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1063 a db_lab:Courses ;
+    db_lab:courseCode "1063"^^xsd:string ;
+    db_lab:courseDept "D4"^^xsd:string ;
+    db_lab:courseDivision "D4-1"^^xsd:string ;
+    db_lab:courseName "C-63"^^xsd:string ;
+    db_lab:courseOwnedBy "P-33"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1064 a db_lab:Courses ;
+    db_lab:courseCode "1064"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-5"^^xsd:string ;
+    db_lab:courseName "C-64"^^xsd:string ;
+    db_lab:courseOwnedBy "P-41"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1065 a db_lab:Courses ;
+    db_lab:courseCode "1065"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-5"^^xsd:string ;
+    db_lab:courseName "C-65"^^xsd:string ;
+    db_lab:courseOwnedBy "P-53"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1066 a db_lab:Courses ;
+    db_lab:courseCode "1066"^^xsd:string ;
+    db_lab:courseDept "D1"^^xsd:string ;
+    db_lab:courseDivision "D1-2"^^xsd:string ;
+    db_lab:courseName "C-66"^^xsd:string ;
+    db_lab:courseOwnedBy "P-01"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1067 a db_lab:Courses ;
+    db_lab:courseCode "1067"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-3"^^xsd:string ;
+    db_lab:courseName "C-67"^^xsd:string ;
+    db_lab:courseOwnedBy "P-11"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1068 a db_lab:Courses ;
+    db_lab:courseCode "1068"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-3"^^xsd:string ;
+    db_lab:courseName "C-68"^^xsd:string ;
+    db_lab:courseOwnedBy "P-74"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1069 a db_lab:Courses ;
+    db_lab:courseCode "1069"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-4"^^xsd:string ;
+    db_lab:courseName "C-69"^^xsd:string ;
+    db_lab:courseOwnedBy "P-73"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1070 a db_lab:Courses ;
+    db_lab:courseCode "1070"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-2"^^xsd:string ;
+    db_lab:courseName "C-70"^^xsd:string ;
+    db_lab:courseOwnedBy "P-71"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1071 a db_lab:Courses ;
+    db_lab:courseCode "1071"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-5"^^xsd:string ;
+    db_lab:courseName "C-71"^^xsd:string ;
+    db_lab:courseOwnedBy "P-73"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1072 a db_lab:Courses ;
+    db_lab:courseCode "1072"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-3"^^xsd:string ;
+    db_lab:courseName "C-72"^^xsd:string ;
+    db_lab:courseOwnedBy "P-71"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1073 a db_lab:Courses ;
+    db_lab:courseCode "1073"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-3"^^xsd:string ;
+    db_lab:courseName "C-73"^^xsd:string ;
+    db_lab:courseOwnedBy "P-14"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1074 a db_lab:Courses ;
+    db_lab:courseCode "1074"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-1"^^xsd:string ;
+    db_lab:courseName "C-74"^^xsd:string ;
+    db_lab:courseOwnedBy "P-14"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1075 a db_lab:Courses ;
+    db_lab:courseCode "1075"^^xsd:string ;
+    db_lab:courseDept "D3"^^xsd:string ;
+    db_lab:courseDivision "D3-4"^^xsd:string ;
+    db_lab:courseName "C-75"^^xsd:string ;
+    db_lab:courseOwnedBy "P-21"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1076 a db_lab:Courses ;
+    db_lab:courseCode "1076"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-1"^^xsd:string ;
+    db_lab:courseName "C-76"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1077 a db_lab:Courses ;
+    db_lab:courseCode "1077"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-1"^^xsd:string ;
+    db_lab:courseName "C-77"^^xsd:string ;
+    db_lab:courseOwnedBy "P-53"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1078 a db_lab:Courses ;
+    db_lab:courseCode "1078"^^xsd:string ;
+    db_lab:courseDept "D4"^^xsd:string ;
+    db_lab:courseDivision "D4-1"^^xsd:string ;
+    db_lab:courseName "C-78"^^xsd:string ;
+    db_lab:courseOwnedBy "P-31"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1079 a db_lab:Courses ;
+    db_lab:courseCode "1079"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-2"^^xsd:string ;
+    db_lab:courseName "C-79"^^xsd:string ;
+    db_lab:courseOwnedBy "P-12"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1080 a db_lab:Courses ;
+    db_lab:courseCode "1080"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-1"^^xsd:string ;
+    db_lab:courseName "C-80"^^xsd:string ;
+    db_lab:courseOwnedBy "P-42"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1081 a db_lab:Courses ;
+    db_lab:courseCode "1081"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-0"^^xsd:string ;
+    db_lab:courseName "C-81"^^xsd:string ;
+    db_lab:courseOwnedBy "P-52"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1082 a db_lab:Courses ;
+    db_lab:courseCode "1082"^^xsd:string ;
+    db_lab:courseDept "D4"^^xsd:string ;
+    db_lab:courseDivision "D4-3"^^xsd:string ;
+    db_lab:courseName "C-82"^^xsd:string ;
+    db_lab:courseOwnedBy "P-32"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1083 a db_lab:Courses ;
+    db_lab:courseCode "1083"^^xsd:string ;
+    db_lab:courseDept "D3"^^xsd:string ;
+    db_lab:courseDivision "D3-2"^^xsd:string ;
+    db_lab:courseName "C-83"^^xsd:string ;
+    db_lab:courseOwnedBy "P-21"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1084 a db_lab:Courses ;
+    db_lab:courseCode "1084"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-1"^^xsd:string ;
+    db_lab:courseName "C-84"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1085 a db_lab:Courses ;
+    db_lab:courseCode "1085"^^xsd:string ;
+    db_lab:courseDept "D4"^^xsd:string ;
+    db_lab:courseDivision "D4-1"^^xsd:string ;
+    db_lab:courseName "C-85"^^xsd:string ;
+    db_lab:courseOwnedBy "P-33"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1086 a db_lab:Courses ;
+    db_lab:courseCode "1086"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-4"^^xsd:string ;
+    db_lab:courseName "C-86"^^xsd:string ;
+    db_lab:courseOwnedBy "P-51"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1087 a db_lab:Courses ;
+    db_lab:courseCode "1087"^^xsd:string ;
+    db_lab:courseDept "D4"^^xsd:string ;
+    db_lab:courseDivision "D4-1"^^xsd:string ;
+    db_lab:courseName "C-87"^^xsd:string ;
+    db_lab:courseOwnedBy "P-32"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1088 a db_lab:Courses ;
+    db_lab:courseCode "1088"^^xsd:string ;
+    db_lab:courseDept "D1"^^xsd:string ;
+    db_lab:courseDivision "D1-0"^^xsd:string ;
+    db_lab:courseName "C-88"^^xsd:string ;
+    db_lab:courseOwnedBy "P-01"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1089 a db_lab:Courses ;
+    db_lab:courseCode "1089"^^xsd:string ;
+    db_lab:courseDept "D1"^^xsd:string ;
+    db_lab:courseDivision "D1-4"^^xsd:string ;
+    db_lab:courseName "C-89"^^xsd:string ;
+    db_lab:courseOwnedBy "P-01"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1090 a db_lab:Courses ;
+    db_lab:courseCode "1090"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-2"^^xsd:string ;
+    db_lab:courseName "C-90"^^xsd:string ;
+    db_lab:courseOwnedBy "P-54"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1091 a db_lab:Courses ;
+    db_lab:courseCode "1091"^^xsd:string ;
+    db_lab:courseDept "D3"^^xsd:string ;
+    db_lab:courseDivision "D3-1"^^xsd:string ;
+    db_lab:courseName "C-91"^^xsd:string ;
+    db_lab:courseOwnedBy "P-21"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1092 a db_lab:Courses ;
+    db_lab:courseCode "1092"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-3"^^xsd:string ;
+    db_lab:courseName "C-92"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1093 a db_lab:Courses ;
+    db_lab:courseCode "1093"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-0"^^xsd:string ;
+    db_lab:courseName "C-93"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1094 a db_lab:Courses ;
+    db_lab:courseCode "1094"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-4"^^xsd:string ;
+    db_lab:courseName "C-94"^^xsd:string ;
+    db_lab:courseOwnedBy "P-41"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1095 a db_lab:Courses ;
+    db_lab:courseCode "1095"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-1"^^xsd:string ;
+    db_lab:courseName "C-95"^^xsd:string ;
+    db_lab:courseOwnedBy "P-11"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1096 a db_lab:Courses ;
+    db_lab:courseCode "1096"^^xsd:string ;
+    db_lab:courseDept "D4"^^xsd:string ;
+    db_lab:courseDivision "D4-3"^^xsd:string ;
+    db_lab:courseName "C-96"^^xsd:string ;
+    db_lab:courseOwnedBy "P-34"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1097 a db_lab:Courses ;
+    db_lab:courseCode "1097"^^xsd:string ;
+    db_lab:courseDept "D4"^^xsd:string ;
+    db_lab:courseDivision "D4-3"^^xsd:string ;
+    db_lab:courseName "C-97"^^xsd:string ;
+    db_lab:courseOwnedBy "P-32"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1098 a db_lab:Courses ;
+    db_lab:courseCode "1098"^^xsd:string ;
+    db_lab:courseDept "D1"^^xsd:string ;
+    db_lab:courseDivision "D1-3"^^xsd:string ;
+    db_lab:courseName "C-98"^^xsd:string ;
+    db_lab:courseOwnedBy "P-01"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1099 a db_lab:Courses ;
+    db_lab:courseCode "1099"^^xsd:string ;
+    db_lab:courseDept "D4"^^xsd:string ;
+    db_lab:courseDivision "D4-5"^^xsd:string ;
+    db_lab:courseName "C-99"^^xsd:string ;
+    db_lab:courseOwnedBy "P-32"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1100 a db_lab:Courses ;
+    db_lab:courseCode "1100"^^xsd:string ;
+    db_lab:courseDept "D3"^^xsd:string ;
+    db_lab:courseDivision "D3-4"^^xsd:string ;
+    db_lab:courseName "C-100"^^xsd:string ;
+    db_lab:courseOwnedBy "P-21"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1101 a db_lab:Courses ;
+    db_lab:courseCode "1101"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-0"^^xsd:string ;
+    db_lab:courseName "C-101"^^xsd:string ;
+    db_lab:courseOwnedBy "P-42"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1102 a db_lab:Courses ;
+    db_lab:courseCode "1102"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-3"^^xsd:string ;
+    db_lab:courseName "C-102"^^xsd:string ;
+    db_lab:courseOwnedBy "P-41"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1103 a db_lab:Courses ;
+    db_lab:courseCode "1103"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-3"^^xsd:string ;
+    db_lab:courseName "C-103"^^xsd:string ;
+    db_lab:courseOwnedBy "P-41"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1104 a db_lab:Courses ;
+    db_lab:courseCode "1104"^^xsd:string ;
+    db_lab:courseDept "D3"^^xsd:string ;
+    db_lab:courseDivision "D3-4"^^xsd:string ;
+    db_lab:courseName "C-104"^^xsd:string ;
+    db_lab:courseOwnedBy "P-21"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1105 a db_lab:Courses ;
+    db_lab:courseCode "1105"^^xsd:string ;
+    db_lab:courseDept "D4"^^xsd:string ;
+    db_lab:courseDivision "D4-3"^^xsd:string ;
+    db_lab:courseName "C-105"^^xsd:string ;
+    db_lab:courseOwnedBy "P-32"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1106 a db_lab:Courses ;
+    db_lab:courseCode "1106"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-1"^^xsd:string ;
+    db_lab:courseName "C-106"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1107 a db_lab:Courses ;
+    db_lab:courseCode "1107"^^xsd:string ;
+    db_lab:courseDept "D4"^^xsd:string ;
+    db_lab:courseDivision "D4-3"^^xsd:string ;
+    db_lab:courseName "C-107"^^xsd:string ;
+    db_lab:courseOwnedBy "P-33"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1108 a db_lab:Courses ;
+    db_lab:courseCode "1108"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-4"^^xsd:string ;
+    db_lab:courseName "C-108"^^xsd:string ;
+    db_lab:courseOwnedBy "P-12"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1109 a db_lab:Courses ;
+    db_lab:courseCode "1109"^^xsd:string ;
+    db_lab:courseDept "D1"^^xsd:string ;
+    db_lab:courseDivision "D1-0"^^xsd:string ;
+    db_lab:courseName "C-109"^^xsd:string ;
+    db_lab:courseOwnedBy "P-01"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1110 a db_lab:Courses ;
+    db_lab:courseCode "1110"^^xsd:string ;
+    db_lab:courseDept "D4"^^xsd:string ;
+    db_lab:courseDivision "D4-4"^^xsd:string ;
+    db_lab:courseName "C-110"^^xsd:string ;
+    db_lab:courseOwnedBy "P-34"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1111 a db_lab:Courses ;
+    db_lab:courseCode "1111"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-3"^^xsd:string ;
+    db_lab:courseName "C-111"^^xsd:string ;
+    db_lab:courseOwnedBy "P-54"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1112 a db_lab:Courses ;
+    db_lab:courseCode "1112"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-4"^^xsd:string ;
+    db_lab:courseName "C-112"^^xsd:string ;
+    db_lab:courseOwnedBy "P-71"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1113 a db_lab:Courses ;
+    db_lab:courseCode "1113"^^xsd:string ;
+    db_lab:courseDept "D1"^^xsd:string ;
+    db_lab:courseDivision "D1-3"^^xsd:string ;
+    db_lab:courseName "C-113"^^xsd:string ;
+    db_lab:courseOwnedBy "P-01"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1114 a db_lab:Courses ;
+    db_lab:courseCode "1114"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-5"^^xsd:string ;
+    db_lab:courseName "C-114"^^xsd:string ;
+    db_lab:courseOwnedBy "P-51"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1115 a db_lab:Courses ;
+    db_lab:courseCode "1115"^^xsd:string ;
+    db_lab:courseDept "D3"^^xsd:string ;
+    db_lab:courseDivision "D3-2"^^xsd:string ;
+    db_lab:courseName "C-115"^^xsd:string ;
+    db_lab:courseOwnedBy "P-21"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1116 a db_lab:Courses ;
+    db_lab:courseCode "1116"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-1"^^xsd:string ;
+    db_lab:courseName "C-116"^^xsd:string ;
+    db_lab:courseOwnedBy "P-52"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1117 a db_lab:Courses ;
+    db_lab:courseCode "1117"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-0"^^xsd:string ;
+    db_lab:courseName "C-117"^^xsd:string ;
+    db_lab:courseOwnedBy "P-72"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1118 a db_lab:Courses ;
+    db_lab:courseCode "1118"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-3"^^xsd:string ;
+    db_lab:courseName "C-118"^^xsd:string ;
+    db_lab:courseOwnedBy "P-42"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1119 a db_lab:Courses ;
+    db_lab:courseCode "1119"^^xsd:string ;
+    db_lab:courseDept "D3"^^xsd:string ;
+    db_lab:courseDivision "D3-4"^^xsd:string ;
+    db_lab:courseName "C-119"^^xsd:string ;
+    db_lab:courseOwnedBy "P-21"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1120 a db_lab:Courses ;
+    db_lab:courseCode "1120"^^xsd:string ;
+    db_lab:courseDept "D3"^^xsd:string ;
+    db_lab:courseDivision "D3-0"^^xsd:string ;
+    db_lab:courseName "C-120"^^xsd:string ;
+    db_lab:courseOwnedBy "P-21"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1121 a db_lab:Courses ;
+    db_lab:courseCode "1121"^^xsd:string ;
+    db_lab:courseDept "D4"^^xsd:string ;
+    db_lab:courseDivision "D4-4"^^xsd:string ;
+    db_lab:courseName "C-121"^^xsd:string ;
+    db_lab:courseOwnedBy "P-32"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1122 a db_lab:Courses ;
+    db_lab:courseCode "1122"^^xsd:string ;
+    db_lab:courseDept "D3"^^xsd:string ;
+    db_lab:courseDivision "D3-2"^^xsd:string ;
+    db_lab:courseName "C-122"^^xsd:string ;
+    db_lab:courseOwnedBy "P-21"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1123 a db_lab:Courses ;
+    db_lab:courseCode "1123"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-1"^^xsd:string ;
+    db_lab:courseName "C-123"^^xsd:string ;
+    db_lab:courseOwnedBy "P-11"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1124 a db_lab:Courses ;
+    db_lab:courseCode "1124"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-2"^^xsd:string ;
+    db_lab:courseName "C-124"^^xsd:string ;
+    db_lab:courseOwnedBy "P-73"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1125 a db_lab:Courses ;
+    db_lab:courseCode "1125"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-3"^^xsd:string ;
+    db_lab:courseName "C-125"^^xsd:string ;
+    db_lab:courseOwnedBy "P-42"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1126 a db_lab:Courses ;
+    db_lab:courseCode "1126"^^xsd:string ;
+    db_lab:courseDept "D4"^^xsd:string ;
+    db_lab:courseDivision "D4-2"^^xsd:string ;
+    db_lab:courseName "C-126"^^xsd:string ;
+    db_lab:courseOwnedBy "P-32"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1127 a db_lab:Courses ;
+    db_lab:courseCode "1127"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-1"^^xsd:string ;
+    db_lab:courseName "C-127"^^xsd:string ;
+    db_lab:courseOwnedBy "P-41"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1128 a db_lab:Courses ;
+    db_lab:courseCode "1128"^^xsd:string ;
+    db_lab:courseDept "D4"^^xsd:string ;
+    db_lab:courseDivision "D4-1"^^xsd:string ;
+    db_lab:courseName "C-128"^^xsd:string ;
+    db_lab:courseOwnedBy "P-31"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1129 a db_lab:Courses ;
+    db_lab:courseCode "1129"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-2"^^xsd:string ;
+    db_lab:courseName "C-129"^^xsd:string ;
+    db_lab:courseOwnedBy "P-41"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1130 a db_lab:Courses ;
+    db_lab:courseCode "1130"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-5"^^xsd:string ;
+    db_lab:courseName "C-130"^^xsd:string ;
+    db_lab:courseOwnedBy "P-74"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1131 a db_lab:Courses ;
+    db_lab:courseCode "1131"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-3"^^xsd:string ;
+    db_lab:courseName "C-131"^^xsd:string ;
+    db_lab:courseOwnedBy "P-74"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1132 a db_lab:Courses ;
+    db_lab:courseCode "1132"^^xsd:string ;
+    db_lab:courseDept "D1"^^xsd:string ;
+    db_lab:courseDivision "D1-1"^^xsd:string ;
+    db_lab:courseName "C-132"^^xsd:string ;
+    db_lab:courseOwnedBy "P-01"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1133 a db_lab:Courses ;
+    db_lab:courseCode "1133"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-1"^^xsd:string ;
+    db_lab:courseName "C-133"^^xsd:string ;
+    db_lab:courseOwnedBy "P-71"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1134 a db_lab:Courses ;
+    db_lab:courseCode "1134"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-1"^^xsd:string ;
+    db_lab:courseName "C-134"^^xsd:string ;
+    db_lab:courseOwnedBy "P-51"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1135 a db_lab:Courses ;
+    db_lab:courseCode "1135"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-2"^^xsd:string ;
+    db_lab:courseName "C-135"^^xsd:string ;
+    db_lab:courseOwnedBy "P-51"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1136 a db_lab:Courses ;
+    db_lab:courseCode "1136"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-5"^^xsd:string ;
+    db_lab:courseName "C-136"^^xsd:string ;
+    db_lab:courseOwnedBy "P-14"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1137 a db_lab:Courses ;
+    db_lab:courseCode "1137"^^xsd:string ;
+    db_lab:courseDept "D1"^^xsd:string ;
+    db_lab:courseDivision "D1-2"^^xsd:string ;
+    db_lab:courseName "C-137"^^xsd:string ;
+    db_lab:courseOwnedBy "P-01"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1138 a db_lab:Courses ;
+    db_lab:courseCode "1138"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-4"^^xsd:string ;
+    db_lab:courseName "C-138"^^xsd:string ;
+    db_lab:courseOwnedBy "P-51"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1139 a db_lab:Courses ;
+    db_lab:courseCode "1139"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-4"^^xsd:string ;
+    db_lab:courseName "C-139"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1140 a db_lab:Courses ;
+    db_lab:courseCode "1140"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-0"^^xsd:string ;
+    db_lab:courseName "C-140"^^xsd:string ;
+    db_lab:courseOwnedBy "P-54"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1141 a db_lab:Courses ;
+    db_lab:courseCode "1141"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-1"^^xsd:string ;
+    db_lab:courseName "C-141"^^xsd:string ;
+    db_lab:courseOwnedBy "P-51"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1142 a db_lab:Courses ;
+    db_lab:courseCode "1142"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-5"^^xsd:string ;
+    db_lab:courseName "C-142"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1143 a db_lab:Courses ;
+    db_lab:courseCode "1143"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-5"^^xsd:string ;
+    db_lab:courseName "C-143"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1144 a db_lab:Courses ;
+    db_lab:courseCode "1144"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-1"^^xsd:string ;
+    db_lab:courseName "C-144"^^xsd:string ;
+    db_lab:courseOwnedBy "P-71"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1145 a db_lab:Courses ;
+    db_lab:courseCode "1145"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-4"^^xsd:string ;
+    db_lab:courseName "C-145"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1146 a db_lab:Courses ;
+    db_lab:courseCode "1146"^^xsd:string ;
+    db_lab:courseDept "D3"^^xsd:string ;
+    db_lab:courseDivision "D3-1"^^xsd:string ;
+    db_lab:courseName "C-146"^^xsd:string ;
+    db_lab:courseOwnedBy "P-21"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1147 a db_lab:Courses ;
+    db_lab:courseCode "1147"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-1"^^xsd:string ;
+    db_lab:courseName "C-147"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1148 a db_lab:Courses ;
+    db_lab:courseCode "1148"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-4"^^xsd:string ;
+    db_lab:courseName "C-148"^^xsd:string ;
+    db_lab:courseOwnedBy "P-14"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1149 a db_lab:Courses ;
+    db_lab:courseCode "1149"^^xsd:string ;
+    db_lab:courseDept "D1"^^xsd:string ;
+    db_lab:courseDivision "D1-3"^^xsd:string ;
+    db_lab:courseName "C-149"^^xsd:string ;
+    db_lab:courseOwnedBy "P-01"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1150 a db_lab:Courses ;
+    db_lab:courseCode "1150"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-5"^^xsd:string ;
+    db_lab:courseName "C-150"^^xsd:string ;
+    db_lab:courseOwnedBy "P-42"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1151 a db_lab:Courses ;
+    db_lab:courseCode "1151"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-0"^^xsd:string ;
+    db_lab:courseName "C-151"^^xsd:string ;
+    db_lab:courseOwnedBy "P-41"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1152 a db_lab:Courses ;
+    db_lab:courseCode "1152"^^xsd:string ;
+    db_lab:courseDept "D4"^^xsd:string ;
+    db_lab:courseDivision "D4-0"^^xsd:string ;
+    db_lab:courseName "C-152"^^xsd:string ;
+    db_lab:courseOwnedBy "P-32"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1153 a db_lab:Courses ;
+    db_lab:courseCode "1153"^^xsd:string ;
+    db_lab:courseDept "D3"^^xsd:string ;
+    db_lab:courseDivision "D3-5"^^xsd:string ;
+    db_lab:courseName "C-153"^^xsd:string ;
+    db_lab:courseOwnedBy "P-21"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1154 a db_lab:Courses ;
+    db_lab:courseCode "1154"^^xsd:string ;
+    db_lab:courseDept "D3"^^xsd:string ;
+    db_lab:courseDivision "D3-2"^^xsd:string ;
+    db_lab:courseName "C-154"^^xsd:string ;
+    db_lab:courseOwnedBy "P-21"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1155 a db_lab:Courses ;
+    db_lab:courseCode "1155"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-2"^^xsd:string ;
+    db_lab:courseName "C-155"^^xsd:string ;
+    db_lab:courseOwnedBy "P-13"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1156 a db_lab:Courses ;
+    db_lab:courseCode "1156"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-3"^^xsd:string ;
+    db_lab:courseName "C-156"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1157 a db_lab:Courses ;
+    db_lab:courseCode "1157"^^xsd:string ;
+    db_lab:courseDept "D3"^^xsd:string ;
+    db_lab:courseDivision "D3-2"^^xsd:string ;
+    db_lab:courseName "C-157"^^xsd:string ;
+    db_lab:courseOwnedBy "P-21"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1158 a db_lab:Courses ;
+    db_lab:courseCode "1158"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-3"^^xsd:string ;
+    db_lab:courseName "C-158"^^xsd:string ;
+    db_lab:courseOwnedBy "P-12"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1159 a db_lab:Courses ;
+    db_lab:courseCode "1159"^^xsd:string ;
+    db_lab:courseDept "D4"^^xsd:string ;
+    db_lab:courseDivision "D4-0"^^xsd:string ;
+    db_lab:courseName "C-159"^^xsd:string ;
+    db_lab:courseOwnedBy "P-34"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1160 a db_lab:Courses ;
+    db_lab:courseCode "1160"^^xsd:string ;
+    db_lab:courseDept "D4"^^xsd:string ;
+    db_lab:courseDivision "D4-1"^^xsd:string ;
+    db_lab:courseName "C-160"^^xsd:string ;
+    db_lab:courseOwnedBy "P-33"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1161 a db_lab:Courses ;
+    db_lab:courseCode "1161"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-1"^^xsd:string ;
+    db_lab:courseName "C-161"^^xsd:string ;
+    db_lab:courseOwnedBy "P-71"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1162 a db_lab:Courses ;
+    db_lab:courseCode "1162"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-0"^^xsd:string ;
+    db_lab:courseName "C-162"^^xsd:string ;
+    db_lab:courseOwnedBy "P-41"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1163 a db_lab:Courses ;
+    db_lab:courseCode "1163"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-2"^^xsd:string ;
+    db_lab:courseName "C-163"^^xsd:string ;
+    db_lab:courseOwnedBy "P-51"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1164 a db_lab:Courses ;
+    db_lab:courseCode "1164"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-3"^^xsd:string ;
+    db_lab:courseName "C-164"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1165 a db_lab:Courses ;
+    db_lab:courseCode "1165"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-0"^^xsd:string ;
+    db_lab:courseName "C-165"^^xsd:string ;
+    db_lab:courseOwnedBy "P-11"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1166 a db_lab:Courses ;
+    db_lab:courseCode "1166"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-0"^^xsd:string ;
+    db_lab:courseName "C-166"^^xsd:string ;
+    db_lab:courseOwnedBy "P-42"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1167 a db_lab:Courses ;
+    db_lab:courseCode "1167"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-5"^^xsd:string ;
+    db_lab:courseName "C-167"^^xsd:string ;
+    db_lab:courseOwnedBy "P-11"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1168 a db_lab:Courses ;
+    db_lab:courseCode "1168"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-1"^^xsd:string ;
+    db_lab:courseName "C-168"^^xsd:string ;
+    db_lab:courseOwnedBy "P-74"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1169 a db_lab:Courses ;
+    db_lab:courseCode "1169"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-3"^^xsd:string ;
+    db_lab:courseName "C-169"^^xsd:string ;
+    db_lab:courseOwnedBy "P-74"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1170 a db_lab:Courses ;
+    db_lab:courseCode "1170"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-1"^^xsd:string ;
+    db_lab:courseName "C-170"^^xsd:string ;
+    db_lab:courseOwnedBy "P-71"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1171 a db_lab:Courses ;
+    db_lab:courseCode "1171"^^xsd:string ;
+    db_lab:courseDept "D1"^^xsd:string ;
+    db_lab:courseDivision "D1-5"^^xsd:string ;
+    db_lab:courseName "C-171"^^xsd:string ;
+    db_lab:courseOwnedBy "P-01"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1172 a db_lab:Courses ;
+    db_lab:courseCode "1172"^^xsd:string ;
+    db_lab:courseDept "D3"^^xsd:string ;
+    db_lab:courseDivision "D3-2"^^xsd:string ;
+    db_lab:courseName "C-172"^^xsd:string ;
+    db_lab:courseOwnedBy "P-21"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1173 a db_lab:Courses ;
+    db_lab:courseCode "1173"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-3"^^xsd:string ;
+    db_lab:courseName "C-173"^^xsd:string ;
+    db_lab:courseOwnedBy "P-72"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1174 a db_lab:Courses ;
+    db_lab:courseCode "1174"^^xsd:string ;
+    db_lab:courseDept "D4"^^xsd:string ;
+    db_lab:courseDivision "D4-3"^^xsd:string ;
+    db_lab:courseName "C-174"^^xsd:string ;
+    db_lab:courseOwnedBy "P-34"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1175 a db_lab:Courses ;
+    db_lab:courseCode "1175"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-4"^^xsd:string ;
+    db_lab:courseName "C-175"^^xsd:string ;
+    db_lab:courseOwnedBy "P-41"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1176 a db_lab:Courses ;
+    db_lab:courseCode "1176"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-3"^^xsd:string ;
+    db_lab:courseName "C-176"^^xsd:string ;
+    db_lab:courseOwnedBy "P-52"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1177 a db_lab:Courses ;
+    db_lab:courseCode "1177"^^xsd:string ;
+    db_lab:courseDept "D3"^^xsd:string ;
+    db_lab:courseDivision "D3-4"^^xsd:string ;
+    db_lab:courseName "C-177"^^xsd:string ;
+    db_lab:courseOwnedBy "P-21"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1178 a db_lab:Courses ;
+    db_lab:courseCode "1178"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-2"^^xsd:string ;
+    db_lab:courseName "C-178"^^xsd:string ;
+    db_lab:courseOwnedBy "P-13"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1179 a db_lab:Courses ;
+    db_lab:courseCode "1179"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-5"^^xsd:string ;
+    db_lab:courseName "C-179"^^xsd:string ;
+    db_lab:courseOwnedBy "P-12"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1180 a db_lab:Courses ;
+    db_lab:courseCode "1180"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-0"^^xsd:string ;
+    db_lab:courseName "C-180"^^xsd:string ;
+    db_lab:courseOwnedBy "P-11"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1181 a db_lab:Courses ;
+    db_lab:courseCode "1181"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-0"^^xsd:string ;
+    db_lab:courseName "C-181"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1182 a db_lab:Courses ;
+    db_lab:courseCode "1182"^^xsd:string ;
+    db_lab:courseDept "D1"^^xsd:string ;
+    db_lab:courseDivision "D1-3"^^xsd:string ;
+    db_lab:courseName "C-182"^^xsd:string ;
+    db_lab:courseOwnedBy "P-01"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1183 a db_lab:Courses ;
+    db_lab:courseCode "1183"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-4"^^xsd:string ;
+    db_lab:courseName "C-183"^^xsd:string ;
+    db_lab:courseOwnedBy "P-72"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1184 a db_lab:Courses ;
+    db_lab:courseCode "1184"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-5"^^xsd:string ;
+    db_lab:courseName "C-184"^^xsd:string ;
+    db_lab:courseOwnedBy "P-42"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1185 a db_lab:Courses ;
+    db_lab:courseCode "1185"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-3"^^xsd:string ;
+    db_lab:courseName "C-185"^^xsd:string ;
+    db_lab:courseOwnedBy "P-71"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1186 a db_lab:Courses ;
+    db_lab:courseCode "1186"^^xsd:string ;
+    db_lab:courseDept "D4"^^xsd:string ;
+    db_lab:courseDivision "D4-3"^^xsd:string ;
+    db_lab:courseName "C-186"^^xsd:string ;
+    db_lab:courseOwnedBy "P-32"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1187 a db_lab:Courses ;
+    db_lab:courseCode "1187"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-1"^^xsd:string ;
+    db_lab:courseName "C-187"^^xsd:string ;
+    db_lab:courseOwnedBy "P-11"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1188 a db_lab:Courses ;
+    db_lab:courseCode "1188"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-5"^^xsd:string ;
+    db_lab:courseName "C-188"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1189 a db_lab:Courses ;
+    db_lab:courseCode "1189"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-4"^^xsd:string ;
+    db_lab:courseName "C-189"^^xsd:string ;
+    db_lab:courseOwnedBy "P-51"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1190 a db_lab:Courses ;
+    db_lab:courseCode "1190"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-0"^^xsd:string ;
+    db_lab:courseName "C-190"^^xsd:string ;
+    db_lab:courseOwnedBy "P-74"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1191 a db_lab:Courses ;
+    db_lab:courseCode "1191"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-3"^^xsd:string ;
+    db_lab:courseName "C-191"^^xsd:string ;
+    db_lab:courseOwnedBy "P-42"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1192 a db_lab:Courses ;
+    db_lab:courseCode "1192"^^xsd:string ;
+    db_lab:courseDept "D3"^^xsd:string ;
+    db_lab:courseDivision "D3-3"^^xsd:string ;
+    db_lab:courseName "C-192"^^xsd:string ;
+    db_lab:courseOwnedBy "P-21"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1193 a db_lab:Courses ;
+    db_lab:courseCode "1193"^^xsd:string ;
+    db_lab:courseDept "D4"^^xsd:string ;
+    db_lab:courseDivision "D4-0"^^xsd:string ;
+    db_lab:courseName "C-193"^^xsd:string ;
+    db_lab:courseOwnedBy "P-34"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1194 a db_lab:Courses ;
+    db_lab:courseCode "1194"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-2"^^xsd:string ;
+    db_lab:courseName "C-194"^^xsd:string ;
+    db_lab:courseOwnedBy "P-41"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1195 a db_lab:Courses ;
+    db_lab:courseCode "1195"^^xsd:string ;
+    db_lab:courseDept "D3"^^xsd:string ;
+    db_lab:courseDivision "D3-4"^^xsd:string ;
+    db_lab:courseName "C-195"^^xsd:string ;
+    db_lab:courseOwnedBy "P-21"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1196 a db_lab:Courses ;
+    db_lab:courseCode "1196"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-2"^^xsd:string ;
+    db_lab:courseName "C-196"^^xsd:string ;
+    db_lab:courseOwnedBy "P-41"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1197 a db_lab:Courses ;
+    db_lab:courseCode "1197"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-1"^^xsd:string ;
+    db_lab:courseName "C-197"^^xsd:string ;
+    db_lab:courseOwnedBy "P-52"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1198 a db_lab:Courses ;
+    db_lab:courseCode "1198"^^xsd:string ;
+    db_lab:courseDept "D3"^^xsd:string ;
+    db_lab:courseDivision "D3-0"^^xsd:string ;
+    db_lab:courseName "C-198"^^xsd:string ;
+    db_lab:courseOwnedBy "P-21"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1199 a db_lab:Courses ;
+    db_lab:courseCode "1199"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-1"^^xsd:string ;
+    db_lab:courseName "C-199"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1200 a db_lab:Courses ;
+    db_lab:courseCode "1200"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-1"^^xsd:string ;
+    db_lab:courseName "C-200"^^xsd:string ;
+    db_lab:courseOwnedBy "P-12"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1201 a db_lab:Courses ;
+    db_lab:courseCode "1201"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-1"^^xsd:string ;
+    db_lab:courseName "C-201"^^xsd:string ;
+    db_lab:courseOwnedBy "P-52"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1202 a db_lab:Courses ;
+    db_lab:courseCode "1202"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-2"^^xsd:string ;
+    db_lab:courseName "C-202"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1203 a db_lab:Courses ;
+    db_lab:courseCode "1203"^^xsd:string ;
+    db_lab:courseDept "D4"^^xsd:string ;
+    db_lab:courseDivision "D4-3"^^xsd:string ;
+    db_lab:courseName "C-203"^^xsd:string ;
+    db_lab:courseOwnedBy "P-32"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1204 a db_lab:Courses ;
+    db_lab:courseCode "1204"^^xsd:string ;
+    db_lab:courseDept "D1"^^xsd:string ;
+    db_lab:courseDivision "D1-4"^^xsd:string ;
+    db_lab:courseName "C-204"^^xsd:string ;
+    db_lab:courseOwnedBy "P-01"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1205 a db_lab:Courses ;
+    db_lab:courseCode "1205"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-4"^^xsd:string ;
+    db_lab:courseName "C-205"^^xsd:string ;
+    db_lab:courseOwnedBy "P-42"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1206 a db_lab:Courses ;
+    db_lab:courseCode "1206"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-1"^^xsd:string ;
+    db_lab:courseName "C-206"^^xsd:string ;
+    db_lab:courseOwnedBy "P-51"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1207 a db_lab:Courses ;
+    db_lab:courseCode "1207"^^xsd:string ;
+    db_lab:courseDept "D3"^^xsd:string ;
+    db_lab:courseDivision "D3-1"^^xsd:string ;
+    db_lab:courseName "C-207"^^xsd:string ;
+    db_lab:courseOwnedBy "P-21"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1208 a db_lab:Courses ;
+    db_lab:courseCode "1208"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-0"^^xsd:string ;
+    db_lab:courseName "C-208"^^xsd:string ;
+    db_lab:courseOwnedBy "P-52"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1209 a db_lab:Courses ;
+    db_lab:courseCode "1209"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-3"^^xsd:string ;
+    db_lab:courseName "C-209"^^xsd:string ;
+    db_lab:courseOwnedBy "P-54"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1210 a db_lab:Courses ;
+    db_lab:courseCode "1210"^^xsd:string ;
+    db_lab:courseDept "D3"^^xsd:string ;
+    db_lab:courseDivision "D3-2"^^xsd:string ;
+    db_lab:courseName "C-210"^^xsd:string ;
+    db_lab:courseOwnedBy "P-21"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1211 a db_lab:Courses ;
+    db_lab:courseCode "1211"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-4"^^xsd:string ;
+    db_lab:courseName "C-211"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1212 a db_lab:Courses ;
+    db_lab:courseCode "1212"^^xsd:string ;
+    db_lab:courseDept "D4"^^xsd:string ;
+    db_lab:courseDivision "D4-0"^^xsd:string ;
+    db_lab:courseName "C-212"^^xsd:string ;
+    db_lab:courseOwnedBy "P-33"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1213 a db_lab:Courses ;
+    db_lab:courseCode "1213"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-2"^^xsd:string ;
+    db_lab:courseName "C-213"^^xsd:string ;
+    db_lab:courseOwnedBy "P-42"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1214 a db_lab:Courses ;
+    db_lab:courseCode "1214"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-3"^^xsd:string ;
+    db_lab:courseName "C-214"^^xsd:string ;
+    db_lab:courseOwnedBy "P-41"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1215 a db_lab:Courses ;
+    db_lab:courseCode "1215"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-2"^^xsd:string ;
+    db_lab:courseName "C-215"^^xsd:string ;
+    db_lab:courseOwnedBy "P-12"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1216 a db_lab:Courses ;
+    db_lab:courseCode "1216"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-5"^^xsd:string ;
+    db_lab:courseName "C-216"^^xsd:string ;
+    db_lab:courseOwnedBy "P-12"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1217 a db_lab:Courses ;
+    db_lab:courseCode "1217"^^xsd:string ;
+    db_lab:courseDept "D3"^^xsd:string ;
+    db_lab:courseDivision "D3-0"^^xsd:string ;
+    db_lab:courseName "C-217"^^xsd:string ;
+    db_lab:courseOwnedBy "P-21"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1218 a db_lab:Courses ;
+    db_lab:courseCode "1218"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-2"^^xsd:string ;
+    db_lab:courseName "C-218"^^xsd:string ;
+    db_lab:courseOwnedBy "P-71"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1219 a db_lab:Courses ;
+    db_lab:courseCode "1219"^^xsd:string ;
+    db_lab:courseDept "D4"^^xsd:string ;
+    db_lab:courseDivision "D4-4"^^xsd:string ;
+    db_lab:courseName "C-219"^^xsd:string ;
+    db_lab:courseOwnedBy "P-33"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1220 a db_lab:Courses ;
+    db_lab:courseCode "1220"^^xsd:string ;
+    db_lab:courseDept "D4"^^xsd:string ;
+    db_lab:courseDivision "D4-5"^^xsd:string ;
+    db_lab:courseName "C-220"^^xsd:string ;
+    db_lab:courseOwnedBy "P-33"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1221 a db_lab:Courses ;
+    db_lab:courseCode "1221"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-3"^^xsd:string ;
+    db_lab:courseName "C-221"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1222 a db_lab:Courses ;
+    db_lab:courseCode "1222"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-2"^^xsd:string ;
+    db_lab:courseName "C-222"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1223 a db_lab:Courses ;
+    db_lab:courseCode "1223"^^xsd:string ;
+    db_lab:courseDept "D1"^^xsd:string ;
+    db_lab:courseDivision "D1-4"^^xsd:string ;
+    db_lab:courseName "C-223"^^xsd:string ;
+    db_lab:courseOwnedBy "P-01"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1224 a db_lab:Courses ;
+    db_lab:courseCode "1224"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-1"^^xsd:string ;
+    db_lab:courseName "C-224"^^xsd:string ;
+    db_lab:courseOwnedBy "P-41"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1225 a db_lab:Courses ;
+    db_lab:courseCode "1225"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-2"^^xsd:string ;
+    db_lab:courseName "C-225"^^xsd:string ;
+    db_lab:courseOwnedBy "P-52"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1226 a db_lab:Courses ;
+    db_lab:courseCode "1226"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-3"^^xsd:string ;
+    db_lab:courseName "C-226"^^xsd:string ;
+    db_lab:courseOwnedBy "P-72"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1227 a db_lab:Courses ;
+    db_lab:courseCode "1227"^^xsd:string ;
+    db_lab:courseDept "D1"^^xsd:string ;
+    db_lab:courseDivision "D1-3"^^xsd:string ;
+    db_lab:courseName "C-227"^^xsd:string ;
+    db_lab:courseOwnedBy "P-01"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1228 a db_lab:Courses ;
+    db_lab:courseCode "1228"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-2"^^xsd:string ;
+    db_lab:courseName "C-228"^^xsd:string ;
+    db_lab:courseOwnedBy "P-52"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1229 a db_lab:Courses ;
+    db_lab:courseCode "1229"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-0"^^xsd:string ;
+    db_lab:courseName "C-229"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1230 a db_lab:Courses ;
+    db_lab:courseCode "1230"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-2"^^xsd:string ;
+    db_lab:courseName "C-230"^^xsd:string ;
+    db_lab:courseOwnedBy "P-42"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1231 a db_lab:Courses ;
+    db_lab:courseCode "1231"^^xsd:string ;
+    db_lab:courseDept "D4"^^xsd:string ;
+    db_lab:courseDivision "D4-5"^^xsd:string ;
+    db_lab:courseName "C-231"^^xsd:string ;
+    db_lab:courseOwnedBy "P-34"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1232 a db_lab:Courses ;
+    db_lab:courseCode "1232"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-1"^^xsd:string ;
+    db_lab:courseName "C-232"^^xsd:string ;
+    db_lab:courseOwnedBy "P-52"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1233 a db_lab:Courses ;
+    db_lab:courseCode "1233"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-3"^^xsd:string ;
+    db_lab:courseName "C-233"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1234 a db_lab:Courses ;
+    db_lab:courseCode "1234"^^xsd:string ;
+    db_lab:courseDept "D4"^^xsd:string ;
+    db_lab:courseDivision "D4-1"^^xsd:string ;
+    db_lab:courseName "C-234"^^xsd:string ;
+    db_lab:courseOwnedBy "P-32"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1235 a db_lab:Courses ;
+    db_lab:courseCode "1235"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-0"^^xsd:string ;
+    db_lab:courseName "C-235"^^xsd:string ;
+    db_lab:courseOwnedBy "P-51"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1236 a db_lab:Courses ;
+    db_lab:courseCode "1236"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-1"^^xsd:string ;
+    db_lab:courseName "C-236"^^xsd:string ;
+    db_lab:courseOwnedBy "P-12"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1237 a db_lab:Courses ;
+    db_lab:courseCode "1237"^^xsd:string ;
+    db_lab:courseDept "D1"^^xsd:string ;
+    db_lab:courseDivision "D1-2"^^xsd:string ;
+    db_lab:courseName "C-237"^^xsd:string ;
+    db_lab:courseOwnedBy "P-01"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1238 a db_lab:Courses ;
+    db_lab:courseCode "1238"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-4"^^xsd:string ;
+    db_lab:courseName "C-238"^^xsd:string ;
+    db_lab:courseOwnedBy "P-12"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1239 a db_lab:Courses ;
+    db_lab:courseCode "1239"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-2"^^xsd:string ;
+    db_lab:courseName "C-239"^^xsd:string ;
+    db_lab:courseOwnedBy "P-74"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1240 a db_lab:Courses ;
+    db_lab:courseCode "1240"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-5"^^xsd:string ;
+    db_lab:courseName "C-240"^^xsd:string ;
+    db_lab:courseOwnedBy "P-41"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1241 a db_lab:Courses ;
+    db_lab:courseCode "1241"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-2"^^xsd:string ;
+    db_lab:courseName "C-241"^^xsd:string ;
+    db_lab:courseOwnedBy "P-42"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1242 a db_lab:Courses ;
+    db_lab:courseCode "1242"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-3"^^xsd:string ;
+    db_lab:courseName "C-242"^^xsd:string ;
+    db_lab:courseOwnedBy "P-11"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1243 a db_lab:Courses ;
+    db_lab:courseCode "1243"^^xsd:string ;
+    db_lab:courseDept "D3"^^xsd:string ;
+    db_lab:courseDivision "D3-4"^^xsd:string ;
+    db_lab:courseName "C-243"^^xsd:string ;
+    db_lab:courseOwnedBy "P-21"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1244 a db_lab:Courses ;
+    db_lab:courseCode "1244"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-0"^^xsd:string ;
+    db_lab:courseName "C-244"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1245 a db_lab:Courses ;
+    db_lab:courseCode "1245"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-1"^^xsd:string ;
+    db_lab:courseName "C-245"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1246 a db_lab:Courses ;
+    db_lab:courseCode "1246"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-4"^^xsd:string ;
+    db_lab:courseName "C-246"^^xsd:string ;
+    db_lab:courseOwnedBy "P-52"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1247 a db_lab:Courses ;
+    db_lab:courseCode "1247"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-5"^^xsd:string ;
+    db_lab:courseName "C-247"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1248 a db_lab:Courses ;
+    db_lab:courseCode "1248"^^xsd:string ;
+    db_lab:courseDept "D3"^^xsd:string ;
+    db_lab:courseDivision "D3-0"^^xsd:string ;
+    db_lab:courseName "C-248"^^xsd:string ;
+    db_lab:courseOwnedBy "P-21"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1249 a db_lab:Courses ;
+    db_lab:courseCode "1249"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-0"^^xsd:string ;
+    db_lab:courseName "C-249"^^xsd:string ;
+    db_lab:courseOwnedBy "P-42"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1250 a db_lab:Courses ;
+    db_lab:courseCode "1250"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-0"^^xsd:string ;
+    db_lab:courseName "C-250"^^xsd:string ;
+    db_lab:courseOwnedBy "P-72"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1251 a db_lab:Courses ;
+    db_lab:courseCode "1251"^^xsd:string ;
+    db_lab:courseDept "D1"^^xsd:string ;
+    db_lab:courseDivision "D1-3"^^xsd:string ;
+    db_lab:courseName "C-251"^^xsd:string ;
+    db_lab:courseOwnedBy "P-01"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1252 a db_lab:Courses ;
+    db_lab:courseCode "1252"^^xsd:string ;
+    db_lab:courseDept "D4"^^xsd:string ;
+    db_lab:courseDivision "D4-2"^^xsd:string ;
+    db_lab:courseName "C-252"^^xsd:string ;
+    db_lab:courseOwnedBy "P-32"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1253 a db_lab:Courses ;
+    db_lab:courseCode "1253"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-2"^^xsd:string ;
+    db_lab:courseName "C-253"^^xsd:string ;
+    db_lab:courseOwnedBy "P-74"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1254 a db_lab:Courses ;
+    db_lab:courseCode "1254"^^xsd:string ;
+    db_lab:courseDept "D5"^^xsd:string ;
+    db_lab:courseDivision "D5-5"^^xsd:string ;
+    db_lab:courseName "C-254"^^xsd:string ;
+    db_lab:courseOwnedBy "P-42"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1255 a db_lab:Courses ;
+    db_lab:courseCode "1255"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-1"^^xsd:string ;
+    db_lab:courseName "C-255"^^xsd:string ;
+    db_lab:courseOwnedBy "P-71"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1256 a db_lab:Courses ;
+    db_lab:courseCode "1256"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-2"^^xsd:string ;
+    db_lab:courseName "C-256"^^xsd:string ;
+    db_lab:courseOwnedBy "P-53"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1257 a db_lab:Courses ;
+    db_lab:courseCode "1257"^^xsd:string ;
+    db_lab:courseDept "D1"^^xsd:string ;
+    db_lab:courseDivision "D1-3"^^xsd:string ;
+    db_lab:courseName "C-257"^^xsd:string ;
+    db_lab:courseOwnedBy "P-01"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1258 a db_lab:Courses ;
+    db_lab:courseCode "1258"^^xsd:string ;
+    db_lab:courseDept "D4"^^xsd:string ;
+    db_lab:courseDivision "D4-5"^^xsd:string ;
+    db_lab:courseName "C-258"^^xsd:string ;
+    db_lab:courseOwnedBy "P-33"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1259 a db_lab:Courses ;
+    db_lab:courseCode "1259"^^xsd:string ;
+    db_lab:courseDept "D3"^^xsd:string ;
+    db_lab:courseDivision "D3-0"^^xsd:string ;
+    db_lab:courseName "C-259"^^xsd:string ;
+    db_lab:courseOwnedBy "P-21"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1260 a db_lab:Courses ;
+    db_lab:courseCode "1260"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-5"^^xsd:string ;
+    db_lab:courseName "C-260"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1261 a db_lab:Courses ;
+    db_lab:courseCode "1261"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-3"^^xsd:string ;
+    db_lab:courseName "C-261"^^xsd:string ;
+    db_lab:courseOwnedBy "P-71"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1262 a db_lab:Courses ;
+    db_lab:courseCode "1262"^^xsd:string ;
+    db_lab:courseDept "D4"^^xsd:string ;
+    db_lab:courseDivision "D4-1"^^xsd:string ;
+    db_lab:courseName "C-262"^^xsd:string ;
+    db_lab:courseOwnedBy "P-33"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1263 a db_lab:Courses ;
+    db_lab:courseCode "1263"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-1"^^xsd:string ;
+    db_lab:courseName "C-263"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1264 a db_lab:Courses ;
+    db_lab:courseCode "1264"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-3"^^xsd:string ;
+    db_lab:courseName "C-264"^^xsd:string ;
+    db_lab:courseOwnedBy "P-14"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1265 a db_lab:Courses ;
+    db_lab:courseCode "1265"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-3"^^xsd:string ;
+    db_lab:courseName "C-265"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1266 a db_lab:Courses ;
+    db_lab:courseCode "1266"^^xsd:string ;
+    db_lab:courseDept "D4"^^xsd:string ;
+    db_lab:courseDivision "D4-4"^^xsd:string ;
+    db_lab:courseName "C-266"^^xsd:string ;
+    db_lab:courseOwnedBy "P-33"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1267 a db_lab:Courses ;
+    db_lab:courseCode "1267"^^xsd:string ;
+    db_lab:courseDept "D4"^^xsd:string ;
+    db_lab:courseDivision "D4-1"^^xsd:string ;
+    db_lab:courseName "C-267"^^xsd:string ;
+    db_lab:courseOwnedBy "P-32"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1268 a db_lab:Courses ;
+    db_lab:courseCode "1268"^^xsd:string ;
+    db_lab:courseDept "D3"^^xsd:string ;
+    db_lab:courseDivision "D3-5"^^xsd:string ;
+    db_lab:courseName "C-268"^^xsd:string ;
+    db_lab:courseOwnedBy "P-21"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1269 a db_lab:Courses ;
+    db_lab:courseCode "1269"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-2"^^xsd:string ;
+    db_lab:courseName "C-269"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1270 a db_lab:Courses ;
+    db_lab:courseCode "1270"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-2"^^xsd:string ;
+    db_lab:courseName "C-270"^^xsd:string ;
+    db_lab:courseOwnedBy "P-11"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1271 a db_lab:Courses ;
+    db_lab:courseCode "1271"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-0"^^xsd:string ;
+    db_lab:courseName "C-271"^^xsd:string ;
+    db_lab:courseOwnedBy "P-14"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1272 a db_lab:Courses ;
+    db_lab:courseCode "1272"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-0"^^xsd:string ;
+    db_lab:courseName "C-272"^^xsd:string ;
+    db_lab:courseOwnedBy "P-71"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1273 a db_lab:Courses ;
+    db_lab:courseCode "1273"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-5"^^xsd:string ;
+    db_lab:courseName "C-273"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1274 a db_lab:Courses ;
+    db_lab:courseCode "1274"^^xsd:string ;
+    db_lab:courseDept "D1"^^xsd:string ;
+    db_lab:courseDivision "D1-2"^^xsd:string ;
+    db_lab:courseName "C-274"^^xsd:string ;
+    db_lab:courseOwnedBy "P-01"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1275 a db_lab:Courses ;
+    db_lab:courseCode "1275"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-4"^^xsd:string ;
+    db_lab:courseName "C-275"^^xsd:string ;
+    db_lab:courseOwnedBy "P-12"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1276 a db_lab:Courses ;
+    db_lab:courseCode "1276"^^xsd:string ;
+    db_lab:courseDept "D1"^^xsd:string ;
+    db_lab:courseDivision "D1-3"^^xsd:string ;
+    db_lab:courseName "C-276"^^xsd:string ;
+    db_lab:courseOwnedBy "P-01"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1277 a db_lab:Courses ;
+    db_lab:courseCode "1277"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-2"^^xsd:string ;
+    db_lab:courseName "C-277"^^xsd:string ;
+    db_lab:courseOwnedBy "P-13"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1278 a db_lab:Courses ;
+    db_lab:courseCode "1278"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-0"^^xsd:string ;
+    db_lab:courseName "C-278"^^xsd:string ;
+    db_lab:courseOwnedBy "P-54"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1279 a db_lab:Courses ;
+    db_lab:courseCode "1279"^^xsd:string ;
+    db_lab:courseDept "D1"^^xsd:string ;
+    db_lab:courseDivision "D1-4"^^xsd:string ;
+    db_lab:courseName "C-279"^^xsd:string ;
+    db_lab:courseOwnedBy "P-01"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1280 a db_lab:Courses ;
+    db_lab:courseCode "1280"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-5"^^xsd:string ;
+    db_lab:courseName "C-280"^^xsd:string ;
+    db_lab:courseOwnedBy "P-52"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1281 a db_lab:Courses ;
+    db_lab:courseCode "1281"^^xsd:string ;
+    db_lab:courseDept "D1"^^xsd:string ;
+    db_lab:courseDivision "D1-0"^^xsd:string ;
+    db_lab:courseName "C-281"^^xsd:string ;
+    db_lab:courseOwnedBy "P-01"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1282 a db_lab:Courses ;
+    db_lab:courseCode "1282"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-3"^^xsd:string ;
+    db_lab:courseName "C-282"^^xsd:string ;
+    db_lab:courseOwnedBy "P-54"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1283 a db_lab:Courses ;
+    db_lab:courseCode "1283"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-2"^^xsd:string ;
+    db_lab:courseName "C-283"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1284 a db_lab:Courses ;
+    db_lab:courseCode "1284"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-4"^^xsd:string ;
+    db_lab:courseName "C-284"^^xsd:string ;
+    db_lab:courseOwnedBy "P-54"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1285 a db_lab:Courses ;
+    db_lab:courseCode "1285"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-2"^^xsd:string ;
+    db_lab:courseName "C-285"^^xsd:string ;
+    db_lab:courseOwnedBy "P-73"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1286 a db_lab:Courses ;
+    db_lab:courseCode "1286"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-4"^^xsd:string ;
+    db_lab:courseName "C-286"^^xsd:string ;
+    db_lab:courseOwnedBy "P-54"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1287 a db_lab:Courses ;
+    db_lab:courseCode "1287"^^xsd:string ;
+    db_lab:courseDept "D3"^^xsd:string ;
+    db_lab:courseDivision "D3-0"^^xsd:string ;
+    db_lab:courseName "C-287"^^xsd:string ;
+    db_lab:courseOwnedBy "P-21"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1288 a db_lab:Courses ;
+    db_lab:courseCode "1288"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-5"^^xsd:string ;
+    db_lab:courseName "C-288"^^xsd:string ;
+    db_lab:courseOwnedBy "P-54"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1289 a db_lab:Courses ;
+    db_lab:courseCode "1289"^^xsd:string ;
+    db_lab:courseDept "D1"^^xsd:string ;
+    db_lab:courseDivision "D1-0"^^xsd:string ;
+    db_lab:courseName "C-289"^^xsd:string ;
+    db_lab:courseOwnedBy "P-01"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1290 a db_lab:Courses ;
+    db_lab:courseCode "1290"^^xsd:string ;
+    db_lab:courseDept "D6"^^xsd:string ;
+    db_lab:courseDivision "D6-0"^^xsd:string ;
+    db_lab:courseName "C-290"^^xsd:string ;
+    db_lab:courseOwnedBy "P-54"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1291 a db_lab:Courses ;
+    db_lab:courseCode "1291"^^xsd:string ;
+    db_lab:courseDept "D1"^^xsd:string ;
+    db_lab:courseDivision "D1-3"^^xsd:string ;
+    db_lab:courseName "C-291"^^xsd:string ;
+    db_lab:courseOwnedBy "P-01"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1292 a db_lab:Courses ;
+    db_lab:courseCode "1292"^^xsd:string ;
+    db_lab:courseDept "D1"^^xsd:string ;
+    db_lab:courseDivision "D1-3"^^xsd:string ;
+    db_lab:courseName "C-292"^^xsd:string ;
+    db_lab:courseOwnedBy "P-01"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1293 a db_lab:Courses ;
+    db_lab:courseCode "1293"^^xsd:string ;
+    db_lab:courseDept "D3"^^xsd:string ;
+    db_lab:courseDivision "D3-0"^^xsd:string ;
+    db_lab:courseName "C-293"^^xsd:string ;
+    db_lab:courseOwnedBy "P-21"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1294 a db_lab:Courses ;
+    db_lab:courseCode "1294"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-4"^^xsd:string ;
+    db_lab:courseName "C-294"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1295 a db_lab:Courses ;
+    db_lab:courseCode "1295"^^xsd:string ;
+    db_lab:courseDept "D3"^^xsd:string ;
+    db_lab:courseDivision "D3-0"^^xsd:string ;
+    db_lab:courseName "C-295"^^xsd:string ;
+    db_lab:courseOwnedBy "P-21"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1296 a db_lab:Courses ;
+    db_lab:courseCode "1296"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-0"^^xsd:string ;
+    db_lab:courseName "C-296"^^xsd:string ;
+    db_lab:courseOwnedBy "P-13"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1297 a db_lab:Courses ;
+    db_lab:courseCode "1297"^^xsd:string ;
+    db_lab:courseDept "D2"^^xsd:string ;
+    db_lab:courseDivision "D2-2"^^xsd:string ;
+    db_lab:courseName "C-297"^^xsd:string ;
+    db_lab:courseOwnedBy "P-12"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1298 a db_lab:Courses ;
+    db_lab:courseCode "1298"^^xsd:string ;
+    db_lab:courseDept "D7"^^xsd:string ;
+    db_lab:courseDivision "D7-4"^^xsd:string ;
+    db_lab:courseName "C-298"^^xsd:string ;
+    db_lab:courseOwnedBy "P-61"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
+db_lab:course_1299 a db_lab:Courses ;
+    db_lab:courseCode "1299"^^xsd:string ;
+    db_lab:courseDept "D1"^^xsd:string ;
+    db_lab:courseDivision "D1-3"^^xsd:string ;
+    db_lab:courseName "C-299"^^xsd:string ;
+    db_lab:courseOwnedBy "P-01"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "Second Cycle"^^xsd:string .
+
+db_lab:course_1300 a db_lab:Courses ;
+    db_lab:courseCode "1300"^^xsd:string ;
+    db_lab:courseDept "D8"^^xsd:string ;
+    db_lab:courseDivision "D8-5"^^xsd:string ;
+    db_lab:courseName "C-300"^^xsd:string ;
+    db_lab:courseOwnedBy "P-72"^^xsd:string ;
+    db_lab:credits "7.5"^^xsd:float ;
+    db_lab:level "First Cycle"^^xsd:string .
+
